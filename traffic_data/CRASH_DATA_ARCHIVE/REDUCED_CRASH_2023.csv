@@ -1,0 +1,590 @@
+System Code,Rd_Number,Rd_Section,Crash Date,Crash Time,Latitude,Longitude,Crash Type,Total Vehicles,Weather Condition,TU-1 Age,TU-1 Sex 
+Interstate Highway,070A,287.719,1/1/2023,15:26:00,39.74513,-104.74082,Sideswipe Same Direction,3.0,Clear,,
+Interstate Highway,070A,228.08,1/2/2023,10:59:00,39.71868,-105.69612,Sideswipe Same Direction,2.0,Clear,24.0,F
+Interstate Highway,070A,296.200,1/2/2023,17:58:00,39.73978,-104.58475,Guardrail Face,1.0,Snow,46.0,M
+Interstate Highway,070A,305.000,1/2/2023,18:50:00,39.73833,-104.42163,Bridge Structure (Not Overhead),1.0,Blowing Snow,33.0,M
+Interstate Highway,070A,307.500,1/2/2023,20:43:00,39.73298,-104.37609,Fence,1.0,Snow,39.0,M
+Interstate Highway,070A,308.15,1/3/2023,07:20:00,39.73349,-104.36379,Guardrail Face,1.0,Snow,,
+Interstate Highway,070A,308.000,1/3/2023,07:40:00,39.73321,-104.36649,Rear-End,2.0,Cloudy,30.0,M
+Interstate Highway,070A,304.650,1/3/2023,18:45:00,39.73845,-104.4266,Overturning/Rollover,1.0,Clear,19.0,M
+Interstate Highway,070A,288.300,1/4/2023,06:00:00,39.74087,-104.73073,Sign,1.0,Clear,19.0,M
+Interstate Highway,070A,252.70,1/4/2023,08:12:00,39.71391,-105.30944,Overturning/Rollover,1.0,Clear,26.0,F
+Interstate Highway,070A,261.15,1/4/2023,16:28:00,39.72656,-105.17783,Rear-End,2.0,Clear,38.0,M
+Interstate Highway,070A,229.50,1/5/2023,16:19:00,39.73637,-105.68788,Sideswipe Same Direction,2.0,Clear,40.0,F
+Interstate Highway,070A,261.03,1/6/2023,13:10:00,39.7253,-105.18332,Guardrail Face,1.0,Clear,30.0,F
+Interstate Highway,070A,288.920,1/6/2023,17:30:00,39.74036,-104.72094,Rear-End,5.0,Clear,,
+Interstate Highway,070A,261.680,1/7/2023,17:07:00,39.73147,-105.16909,Rear-End,2.0,Clear,18.0,M
+Interstate Highway,070A,260.00,1/7/2023,18:58:00,39.714325,-105.192405,Rear-End,2.0,Clear,23.0,F
+Interstate Highway,070A,260.888,1/7/2023,18:59:00,39.72384,-105.1814,Rear-End,2.0,Clear,36.0,M
+Interstate Highway,070A,245.41,1/8/2023,11:10:00,39.73252,-105.42737,Rear-End,3.0,Clear,30.0,M
+Interstate Highway,070A,288.262,1/8/2023,23:31:00,39.74075,-104.73188,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,287.839,1/9/2023,07:30:00,39.74519,-104.74092,Embankment,1.0,Clear,73.0,F
+Interstate Highway,070A,247.18,1/11/2023,07:53:00,39.71746,-105.39886,Rear-End,2.0,Cloudy,74.0,M
+Interstate Highway,070A,253.04,1/11/2023,08:15:00,39.71254,-105.30344,Rear-End,2.0,Snow,27.0,M
+Interstate Highway,070A,307.586,1/11/2023,09:45:00,39.73276,-104.37411,Bridge Structure (Not Overhead),1.0,Snow,19.0,F
+Interstate Highway,070A,307.053,1/11/2023,10:15:00,39.73377,-104.38355,Sideswipe Same Direction,2.0,Snow,23.0,M
+Interstate Highway,070A,244.67,1/13/2023,07:52:00,39.74231,-105.43306,Concrete Highway Barrier,2.0,Clear,30.0,M
+Interstate Highway,070A,245.00,1/13/2023,13:00:00,39.7373,-105.4307,Sideswipe Same Direction,2.0,Clear,56.0,M
+Interstate Highway,070A,261.03,1/13/2023,14:10:00,39.725314,-105.179109,Rear-End,3.0,Clear,53.0,M
+Interstate Highway,070A,242.00,1/14/2023,17:22:00,39.743863,-105.481063,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,244.10,1/15/2023,06:16:00,39.74443,-105.44212,Rear-End,2.0,Clear,26.0,F
+Interstate Highway,070A,245.82,1/15/2023,22:36:00,39.7277,-105.4227,Concrete Highway Barrier,1.0,Wind,39.0,M
+Interstate Highway,070A,245.52,1/16/2023,06:52:00,39.73105,-105.42648,Rear-End,3.0,Wind,60.0,M
+Interstate Highway,070A,260.150,1/17/2023,15:01:00,39.71631,-105.19147,Overturning/Rollover,1.0,Cloudy,41.0,M
+Interstate Highway,070A,292.846,1/17/2023,19:31:00,39.73919,-104.64779,Sideswipe Same Direction,2.0,Blowing Snow,22.0,M
+Interstate Highway,070A,292.000,1/18/2023,11:30:00,39.74037,-104.66328,Cable Rail,1.0,Snow,20.0,M
+Interstate Highway,070A,309.263,1/18/2023,12:25:00,39.73439,-104.34332,Sideswipe Same Direction,2.0,Blowing Snow,38.0,M
+Interstate Highway,070A,288.397,1/18/2023,13:00:00,39.74013,-104.72876,Guardrail Face,1.0,Snow,61.0,M
+Interstate Highway,070A,313.680,1/18/2023,13:00:00,39.72534,-104.26124,Rear-End,2.0,Snow,42.0,M
+Interstate Highway,070A,312.945,1/18/2023,13:18:00,39.7289,-104.27387,Sideswipe Same Direction,2.0,Blowing Snow,43.0,M
+Interstate Highway,070A,313.000,1/18/2023,13:18:00,39.7289,-104.27387,Sideswipe Same Direction,3.0,Snow,56.0,M
+Interstate Highway,070A,313.000,1/18/2023,13:18:00,39.7289,-104.27387,Sideswipe Same Direction,3.0,Snow,47.0,M
+Interstate Highway,070A,313.000,1/18/2023,13:18:00,39.7289,-104.27387,Rear-End,4.0,Snow,29.0,M
+Interstate Highway,070A,313.045,1/18/2023,13:30:00,39.72849,-104.27212,Sideswipe Same Direction,2.0,Blowing Snow,69.0,M
+Interstate Highway,070A,313.045,1/18/2023,13:30:00,39.72864,-104.27207,Sideswipe Same Direction,4.0,Blowing Snow,43.0,M
+Interstate Highway,070A,313.045,1/18/2023,13:30:00,39.72848,-104.2722,Sideswipe Same Direction,2.0,Blowing Snow,44.0,M
+Interstate Highway,070A,313.045,1/18/2023,13:30:00,39.72874,-104.27258,Sideswipe Same Direction,3.0,Blowing Snow,56.0,M
+Interstate Highway,070A,313.045,1/18/2023,13:30:00,39.72825,-104.27174,Sideswipe Same Direction,2.0,Blowing Snow,24.0,M
+Interstate Highway,070A,313.016,1/18/2023,13:30:00,39.72848,-104.27271,Sideswipe Same Direction,2.0,Blowing Snow,35.0,M
+Interstate Highway,070A,291.235,1/18/2023,14:30:00,39.74014,-104.67804,Overturning/Rollover,1.0,Snow,29.0,F
+Interstate Highway,070A,313.376,1/18/2023,15:30:00,39.72685,-104.26646,Overturning/Rollover,1.0,Blowing Snow,38.0,M
+Interstate Highway,070A,260.609,1/18/2023,17:18:00,39.72023,-105.18765,Sideswipe Same Direction,2.0,Clear,27.0,M
+Interstate Highway,070A,290.000,1/18/2023,18:03:00,39.7400909,-104.6993598,Parked Motor Vehicle,2.0,Snow,29.0,F
+Interstate Highway,070A,288.000,1/19/2023,07:15:00,39.7428829,-104.7365494,Rear-End,2.0,Clear,26.0,M
+Interstate Highway,070A,245.619,1/19/2023,11:30:00,39.72981,-105.42545,Concrete Highway Barrier,2.0,Cloudy,32.0,M
+Interstate Highway,070A,293.900,1/19/2023,16:00:00,39.7399493,-104.6293092,Vehicle Debris or Cargo,1.0,Clear,49.0,M
+Interstate Highway,070A,316.732,1/21/2023,10:10:00,39.71111,-104.20954,Tree,1.0,Snow,37.0,M
+Interstate Highway,070A,243.25,1/22/2023,10:10:00,39.74614,-105.46581,Sideswipe Same Direction,2.0,Clear,29.0,F
+Interstate Highway,070A,241.21,1/23/2023,07:55:00,39.74271,-105.49279,Concrete Highway Barrier,1.0,Cloudy,29.0,M
+Interstate Highway,070A,261.03,1/24/2023,15:00:00,39.72567,-105.18252,Ground,1.0,Clear,54.0,F
+Interstate Highway,070A,315.389,1/25/2023,09:00:00,39.71801,-104.23073,Rear-End,3.0,Blowing Snow,62.0,M
+Interstate Highway,070A,315.996,1/25/2023,09:25:00,39.71521,-104.22056,Guardrail Face,1.0,Snow,30.0,M
+Interstate Highway,070A,240.465,1/26/2023,20:00:00,39.74029,-105.5056,Concrete Highway Barrier,1.0,Clear,39.0,M
+Interstate Highway,070A,245.57,1/27/2023,07:05:00,39.73039,-105.42597,Rear-End,2.0,Clear,20.0,M
+Interstate Highway,070A,260.631,1/27/2023,16:38:00,39.72137,-105.18505,Rear-End,3.0,Clear,,
+Interstate Highway,070A,260.558,1/27/2023,16:55:00,39.72071,-105.18614,Rear-End,2.0,Clear,23.0,M
+Interstate Highway,070A,228.00,1/28/2023,14:50:00,39.71536,-105.6965,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,228.00,1/29/2023,13:43:00,39.71548,-105.69658,Rear-End,2.0,Clear,17.0,F
+Interstate Highway,070A,244.625,1/30/2023,16:15:00,39.74306,-105.43322,Other Non-Collision,1.0,Snow,31.0,M
+Interstate Highway,070A,298.000,1/30/2023,23:27:00,39.73927,-104.5552,Embankment,1.0,Snow,41.0,M
+Interstate Highway,070A,313.000,1/31/2023,04:45:00,39.72807,-104.27204,Embankment,1.0,Blowing Snow,23.0,F
+Interstate Highway,070A,303.000,1/31/2023,08:20:00,39.73835,-104.45437,Overturning/Rollover,1.0,Blowing Snow,23.0,M
+Interstate Highway,070A,247.00,1/31/2023,13:50:00,39.72291,-105.4151,Rear-End,2.0,Clear,41.0,M
+Interstate Highway,070A,245.20,2/3/2023,07:21:00,39.7351,-105.42894,Rear-End,2.0,Clear,52.0,M
+Interstate Highway,070A,260.75,2/3/2023,17:27:00,39.7225,-105.18329,Rear-End,2.0,Clear,50.0,M
+Interstate Highway,070A,230.82,2/4/2023,09:50:00,39.74887,-105.67013,Rear-End,2.0,Clear,39.0,M
+Interstate Highway,070A,240.25,2/4/2023,14:17:00,39.74043,-105.49849,Sideswipe Same Direction,2.0,Clear,27.0,M
+Interstate Highway,070A,240.853,2/4/2023,14:17:00,39.74043,-105.49849,Sideswipe Same Direction,2.0,Clear,27.0,M
+Interstate Highway,070A,154.200,2/4/2023,17:00:00,39.71102,-106.70707,Rear-End,2.0,Clear,20.0,M
+Interstate Highway,070A,261.03,2/5/2023,02:08:00,39.725314,-105.179109,Concrete Highway Barrier,1.0,Clear,26.0,M
+Frontage Road,070A,289.300,2/8/2023,07:00:00,39.73921,-104.71329,Rear-End,2.0,Clear,20.0,F
+Interstate Highway,070A,304.000,2/8/2023,09:50:00,39.73839,-104.42536,Rear-End,2.0,Clear,63.0,M
+Interstate Highway,070A,263.239,2/8/2023,17:53:00,39.7471,-105.1508,Rear-End,3.0,Clear,76.0,M
+Interstate Highway,070A,238.500,2/10/2023,06:40:00,39.747,-105.544,Sideswipe Same Direction,2.0,Clear,56.0,M
+Interstate Highway,070A,317.000,2/11/2023,11:00:00,39.70887,-104.20369,Wild Animal,1.0,Clear,64.0,M
+Interstate Highway,070A,288.300,2/11/2023,16:06:00,39.74038,-104.72618,Overturning/Rollover,1.0,Clear,54.0,F
+Frontage Road,070A,310.312,2/11/2023,20:35:00,39.73311,-104.32133,Embankment,1.0,Clear,19.0,F
+Interstate Highway,070A,240.176,2/12/2023,23:51:00,39.74129,-105.51072,Concrete Highway Barrier,1.0,Clear,36.0,M
+Interstate Highway,070A,262.571,2/13/2023,14:32:00,39.74359,-105.15501,Overtaking Turn,3.0,Clear,33.0,M
+Interstate Highway,070A,305.200,2/15/2023,11:45:00,39.73835,-104.41877,Rear-End,4.0,Blowing Snow,,
+Interstate Highway,070A,255.00,2/15/2023,15:50:00,39.70846,-105.28242,Sideswipe Same Direction,2.0,Snow,39.0,F
+Interstate Highway,070A,300.900,2/15/2023,15:51:00,39.73827,-104.497913,Overturning/Rollover,1.0,Snow,45.0,M
+Interstate Highway,070A,312.000,2/15/2023,21:20:00,39.72936,-104.28888,Delineator/Milepost,1.0,Blowing Snow,35.0,M
+Interstate Highway,070A,290.000,2/15/2023,23:11:00,39.74022,-104.69933,Concrete Highway Barrier,1.0,Blowing Snow,41.0,M
+Interstate Highway,070A,245.160,2/16/2023,12:30:00,39.73565,-105.42962,Sideswipe Same Direction,2.0,Clear,55.0,M
+Frontage Road,070A,291.222,2/17/2023,13:40:00,39.73954,-104.67827,Broadside,2.0,Clear,36.0,M
+Interstate Highway,070A,289.164,2/17/2023,23:10:00,39.73954,-104.71594,Approach Turn,2.0,Clear,29.0,M
+Interstate Highway,070A,289.500,2/19/2023,18:58:00,39.74013,-104.70984,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,352.349,2/20/2023,04:30:00,39.73842,-104.41453,Guardrail Face,1.0,Clear,45.0,M
+Interstate Highway,070A,252.927,2/20/2023,05:55:00,39.7129,-105.30547,Concrete Highway Barrier,2.0,Blowing Snow,29.0,M
+Interstate Highway,070A,242.204,2/20/2023,13:00:00,39.74492,-105.47353,Rear-End,2.0,Clear,43.0,M
+Interstate Highway,070A,253.05,2/20/2023,15:17:00,39.71233,-105.30335,Rear-End,4.0,Clear,42.0,M
+Interstate Highway,070A,242.398,2/20/2023,16:59:00,39.74503,-105.47265,Rear-End,2.0,Cloudy,29.0,F
+Interstate Highway,070A,262.151,2/21/2023,09:15:00,39.73612,-105.16426,Rear-End,3.0,Clear,66.0,M
+Interstate Highway,070A,262.571,2/21/2023,15:35:00,39.7396,-105.1586,Broadside,2.0,Clear,18.0,M
+Interstate Highway,070A,259.602,2/21/2023,19:51:00,39.7098,-105.1957,Concrete Highway Barrier,1.0,Clear,63.0,M
+Interstate Highway,070A,240.500,2/22/2023,04:03:00,39.74025,-105.50448,Concrete Highway Barrier,1.0,Snow,31.0,M
+Interstate Highway,070A,242.177,2/22/2023,09:55:00,39.74452,-105.47734,Guardrail Face,1.0,Blowing Snow,64.0,M
+Interstate Highway,070A,241.500,2/22/2023,11:58:00,39.744,-105.483,Rear-End,2.0,Blowing Snow,36.0,M
+Interstate Highway,070A,228.401,2/23/2023,08:15:00,39.72292,-105.6954,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,312.000,2/23/2023,21:31:00,39.72969,-104.2922,Guardrail Face,3.0,Snow,46.0,M
+Interstate Highway,070A,245.114,2/24/2023,07:55:00,39.73631,-105.42994,Rear-End,2.0,Clear,65.0,M
+Interstate Highway,070A,245.288,2/24/2023,08:00:00,39.73416,-105.42817,Rear-End,2.0,Clear,31.0,M
+Interstate Highway,070A,244.400,2/24/2023,19:14:00,39.7424,-105.4329,Concrete Highway Barrier,1.0,Clear,32.0,M
+Interstate Highway,070A,227.995,2/25/2023,13:15:00,39.71663,-105.69637,Rear-End,2.0,Clear,33.0,F
+Interstate Highway,070A,288.515,2/25/2023,23:15:00,39.74097,-104.731325,Sideswipe Same Direction,3.0,Clear,25.0,F
+Interstate Highway,070A,246.763,2/26/2023,11:00:00,39.72056,-105.40654,Rear-End,2.0,Clear,20.0,F
+Interstate Highway,070A,260.97,2/27/2023,14:50:00,39.72486,-105.18042,Rear-End,3.0,Clear,56.0,M
+Interstate Highway,070A,260.00,2/27/2023,14:55:00,39.714325,-105.192405,Sideswipe Same Direction,2.0,Clear,39.0,M
+Interstate Highway,070A,228.000,2/28/2023,09:37:00,39.7265,-105.6944,Sideswipe Same Direction,3.0,Snow,57.0,M
+Interstate Highway,070A,261.841,2/28/2023,10:47:00,39.73318,-105.16756,Sideswipe Same Direction,2.0,Clear,21.0,M
+Interstate Highway,070A,261.828,2/28/2023,13:53:00,39.73301,-105.16758,Rear-End,2.0,Cloudy,27.0,M
+Interstate Highway,070A,305.300,3/1/2023,01:18:00,39.7381,-104.41564,Sideswipe Same Direction,2.0,Clear,20.0,M
+Interstate Highway,070A,244.715,3/1/2023,20:33:00,39.7417,-105.43314,Rear-End,2.0,Snow,70.0,M
+Interstate Highway,070A,300.491,3/1/2023,23:00:00,39.73822,-104.50513,Overturning/Rollover,1.0,Clear,37.0,F
+Interstate Highway,070A,240.75,3/2/2023,15:37:00,39.74233,-105.49381,Vehicle Debris or Cargo,2.0,Clear,36.0,M
+Interstate Highway,070A,289.164,3/3/2023,06:55:00,39.73956,-104.71598,Broadside,2.0,Clear,53.0,M
+Interstate Highway,070A,246.600,3/3/2023,08:56:00,39.7214,-105.4098,Rear-End,2.0,Cloudy,37.0,M
+Frontage Road,070A,289.284,3/5/2023,10:38:00,39.73792,-104.71386,Approach Turn,3.0,Clear,27.0,M
+Interstate Highway,070A,298.00,3/6/2023,07:30:00,39.73948,-104.55238,Sideswipe Same Direction,2.0,Clear,29.0,M
+Interstate Highway,070A,253.978,3/6/2023,08:35:00,39.70941,-105.2865,Sideswipe Same Direction,2.0,Clear,38.0,M
+Frontage Road,070A,291.222,3/7/2023,17:24:00,39.73939,-104.67837,Broadside,2.0,Clear,43.0,F
+Interstate Highway,070A,315.100,3/7/2023,19:20:00,39.71914,-104.23371,Wild Animal,1.0,Clear,53.0,F
+Interstate Highway,070A,260.866,3/9/2023,11:41:00,39.72359,-105.1817,Rear-End,2.0,Clear,74.0,F
+Interstate Highway,070A,254.197,3/9/2023,14:54:00,39.70856,-105.2826,Guardrail Face,1.0,Clear,27.0,F
+Interstate Highway,070A,291.000,3/11/2023,17:00:00,39.74027,-104.68241,Guardrail Face,1.0,Clear,25.0,M
+Interstate Highway,070A,229.865,3/14/2023,11:00:00,39.74129,-105.68455,Sideswipe Same Direction,1.0,Clear,71.0,M
+Interstate Highway,070A,248.364,3/14/2023,19:47:00,39.7149,-105.37765,Guardrail Face,1.0,Clear,48.0,M
+Interstate Highway,070A,289.05,3/15/2023,05:40:00,39.74047,-104.71825,Sideswipe Same Direction,2.0,Clear,65.0,M
+Interstate Highway,070A,227.951,3/15/2023,16:40:00,39.71601,-105.69642,Rear-End,5.0,Clear,31.0,M
+Interstate Highway,070A,249.23,3/16/2023,06:45:00,39.71249,-105.36392,Sideswipe Same Direction,2.0,Cloudy,27.0,F
+Interstate Highway,070A,294.000,3/16/2023,07:15:00,39.74029,-104.62572,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,306.410,3/16/2023,07:30:00,39.7361,-104.39476,Rear-End,2.0,Clear,17.0,F
+Interstate Highway,070A,305.990,3/16/2023,07:50:00,39.73805,-104.40259,Fence,1.0,Clear,21.0,M
+Interstate Highway,070A,293.000,3/16/2023,08:15:00,39.73884,-104.64487,Sideswipe Same Direction,2.0,Clear,56.0,M
+Interstate Highway,070A,304.000,3/16/2023,11:00:00,39.73815,-104.44015,Guardrail End,1.0,Clear,45.0,M
+Interstate Highway,070A,289.154,3/17/2023,15:15:00,39.7408,-104.71649,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,262.571,3/18/2023,17:58:00,39.73983,-105.15916,Rear-End,2.0,Clear,61.0,M
+Interstate Highway,070A,248.005,3/20/2023,18:50:00,39.71544,-105.38352,Sideswipe Same Direction,2.0,Snow,27.0,F
+Interstate Highway,070A,298.15,3/21/2023,15:03:00,39.73896,-104.54946,Rear-End,3.0,Clear,,
+Interstate Highway,070A,227.615,3/22/2023,08:45:00,39.71114,-105.69736,Sideswipe Same Direction,3.0,Cloudy,36.0,M
+Frontage Road,070A,291.222,3/22/2023,10:35:00,39.73962,-104.67833,Broadside,2.0,Clear,20.0,M
+Interstate Highway,070A,227.524,3/22/2023,20:15:00,39.7098,-105.6976,Concrete Highway Barrier,3.0,Snow,33.0,M
+Interstate Highway,070A,259.803,3/24/2023,00:34:00,39.71312,-105.19572,Head-On,2.0,Clear,21.0,M
+Interstate Highway,070A,296.218,3/24/2023,06:40:00,39.73999,-104.5848,Guardrail Face,1.0,Snow,37.0,M
+Interstate Highway,070A,241.000,3/24/2023,14:33:00,39.74057,-105.49767,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,288.094,3/25/2023,04:00:00,39.74203,-104.73577,Guardrail End,1.0,Snow,26.0,F
+Interstate Highway,070A,261.000,3/27/2023,03:00:00,39.72492,-105.179715,Guardrail Face,1.0,Blowing Snow,43.0,M
+Interstate Highway,070A,293.000,3/27/2023,03:45:00,39.73814,-104.63831,Overturning/Rollover,1.0,Blowing Snow,62.0,M
+Interstate Highway,070A,291.000,3/27/2023,07:30:00,39.74021,-104.68227,Cable Rail,1.0,Blowing Snow,26.0,M
+Interstate Highway,070A,316.100,3/27/2023,07:50:00,39.71477,-104.21845,Fence,1.0,Snow,41.0,M
+Interstate Highway,070A,307.410,3/27/2023,10:50:00,39.73289,-104.37732,Guardrail Face,1.0,Blowing Snow,26.0,M
+Interstate Highway,070A,298.000,3/27/2023,11:00:00,39.73913,-104.55051,Other Non-Collision,1.0,Blowing Snow,49.0,M
+Interstate Highway,070A,306.000,3/27/2023,11:00:00,39.73683,-104.40298,Rear-End,2.0,Snow,25.0,F
+Interstate Highway,070A,246.899,3/27/2023,16:45:00,39.72003,-105.4039,Embankment,1.0,Snow,51.0,M
+Interstate Highway,070A,261.650,3/28/2023,15:55:00,39.7309,-105.1719,Sideswipe Same Direction,2.0,Clear,44.0,M
+Interstate Highway,070A,240.50,3/28/2023,21:50:00,39.74031,-105.50491,Guardrail Face,2.0,Clear,19.0,M
+Interstate Highway,070A,239.990,3/29/2023,,39.74094,-105.51536,Concrete Highway Barrier,1.0,Snow,,
+Interstate Highway,070A,289.000,3/31/2023,14:00:00,39.74013,-104.72015,Sideswipe Same Direction,2.0,Clear,49.0,M
+Interstate Highway,070A,262.00,3/31/2023,14:57:00,39.73467,-105.16561,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,261.000,4/1/2023,06:20:00,39.72492,-105.17972,Overturning/Rollover,1.0,Clear,34.0,M
+Interstate Highway,070A,244.938,4/1/2023,15:40:00,39.73856,-105.43161,Rear-End,2.0,Clear,,
+Interstate Highway,070A,291.000,4/4/2023,06:50:00,39.73989,-104.68218,Sideswipe Same Direction,2.0,Blowing Snow,35.0,M
+Interstate Highway,070A,289.164,4/4/2023,07:28:00,39.74089,-104.71613,Sideswipe Same Direction,2.0,Snow,,
+Interstate Highway,070A,301.100,4/4/2023,07:50:00,39.73848,-104.49434,Sideswipe Same Direction,2.0,Snow,26.0,F
+Interstate Highway,070A,241.095,4/4/2023,08:10:00,39.74205,-105.49432,Guardrail Face,1.0,Snow,35.0,M
+Interstate Highway,070A,245.072,4/4/2023,09:30:00,39.73677,-105.43049,Other Non-Collision,4.0,Snow,51.0,M
+Interstate Highway,070A,228.766,4/4/2023,12:40:00,39.72762,-105.69381,Rear-End,2.0,Snow,59.0,M
+Interstate Highway,070A,230.859,4/5/2023,09:25:00,39.74916,-105.6695,Ditch,1.0,Clear,51.0,M
+Interstate Highway,070A,247.118,4/5/2023,09:50:00,39.71792,-105.40016,Overturning/Rollover,1.0,Clear,16.0,M
+Interstate Highway,070A,244.676,4/6/2023,11:56:00,39.7423,-105.4332,Sideswipe Same Direction,2.0,Clear,35.0,F
+Interstate Highway,070A,262.600,4/6/2023,17:18:00,39.7398143,-105.158383,Sideswipe Same Direction,2.0,Clear,24.0,F
+Interstate Highway,070A,261.404,4/7/2023,22:53:00,39.72853,-105.17377,Guardrail Face,1.0,Clear,61.0,M
+Interstate Highway,070A,240.500,4/8/2023,05:32:00,39.740342,-105.504974,Concrete Highway Barrier,1.0,Clear,42.0,F
+Interstate Highway,070A,246.589,4/10/2023,11:30:00,39.72117,-105.40986,Overhead Structure (Bridge),1.0,Clear,51.0,M
+Interstate Highway,070A,316.100,4/10/2023,17:30:00,39.71502,-104.21921,Fence,1.0,Clear,37.0,M
+Interstate Highway,070A,244.869,4/14/2023,11:40:00,39.73951,-105.4322,Concrete Highway Barrier,1.0,Cloudy,22.0,F
+Interstate Highway,070A,254.10,4/14/2023,16:45:00,39.70896,-105.2847,Rear-End,2.0,Snow,62.0,M
+Interstate Highway,070A,245.468,4/15/2023,00:49:00,39.7317222,-105.4268083,Concrete Highway Barrier,1.0,Snow,33.0,M
+Frontage Road,070A,291.222,4/15/2023,01:28:00,39.73957,-104.67828,Broadside,2.0,Clear,34.0,M
+Interstate Highway,070A,307.000,4/15/2023,06:15:00,39.73403,-104.38363,Guardrail Face,1.0,Clear,38.0,M
+Interstate Highway,070A,240.906,4/15/2023,12:40:00,39.74063,-105.49754,Sideswipe Same Direction,2.0,Clear,27.0,F
+Interstate Highway,070A,296.55,4/16/2023,22:59:00,39.73964,-104.57869,Overtaking Turn,2.0,Clear,24.0,M
+Interstate Highway,070A,287.719,4/17/2023,09:12:00,39.74516,-104.740832,Sideswipe Same Direction,2.0,Clear,73.0,M
+Interstate Highway,070A,297.219,4/17/2023,10:50:00,39.73976,-104.56638,Parked Motor Vehicle,2.0,Clear,,
+Interstate Highway,070A,289.000,4/18/2023,23:49:00,39.74011,-104.7203,Cable Rail,1.0,Clear,33.0,F
+Interstate Highway,070A,313.000,4/19/2023,16:38:00,39.72858,-104.27287,Rear-End,4.0,Dust,27.0,F
+Frontage Road,070A,291.222,4/19/2023,17:55:00,39.73967,-104.67828,Rear-End,2.0,Clear,50.0,F
+Interstate Highway,070A,239.500,4/22/2023,10:30:00,39.742959,-105.52759,Concrete Highway Barrier,1.0,Rain,39.0,M
+Interstate Highway,070A,244.644,4/24/2023,22:41:00,39.74277,-105.43331,Concrete Highway Barrier,1.0,Rain,61.0,M
+Interstate Highway,070A,228.231,4/25/2023,05:52:00,39.72069,-105.69613,Concrete Highway Barrier,1.0,Clear,48.0,M
+Interstate Highway,070A,260.749,4/27/2023,13:39:00,39.72353,-105.1844,Guardrail End,1.0,Clear,31.0,F
+Interstate Highway,070A,241.500,4/28/2023,07:00:00,39.744552,-105.48903,Concrete Highway Barrier,1.0,Clear,40.0,M
+Interstate Highway,070A,260.599,4/28/2023,14:13:00,39.72031,-105.18742,Sideswipe Same Direction,3.0,Clear,33.0,F
+Interstate Highway,070A,252.69,4/28/2023,16:19:00,39.71396,-105.30962,Guardrail Face,1.0,Clear,46.0,M
+Interstate Highway,070A,261.60,4/28/2023,23:55:00,39.72839,-105.17436,Overturning/Rollover,1.0,Clear,28.0,M
+Interstate Highway,070A,262.591,4/29/2023,18:45:00,39.74079,-105.16024,Curb,1.0,Clear,,
+Interstate Highway,070A,262.192,5/1/2023,17:20:00,39.73658,-105.16374,Sideswipe Same Direction,2.0,Clear,49.0,M
+Interstate Highway,070A,244.897,5/2/2023,18:46:00,39.739141,-105.431852,Guardrail Face,1.0,Rain,23.0,M
+Interstate Highway,070A,288.313,5/3/2023,13:07:00,39.7401679,-104.730749,Overturning/Rollover,1.0,Clear,30.0,F
+Interstate Highway,070A,261.927,5/3/2023,15:26:00,39.7342,-105.1667,Rear-End,2.0,Clear,38.0,M
+Interstate Highway,070A,261.017,5/4/2023,16:30:00,39.72518,-105.17995,Rear-End,2.0,Rain,62.0,M
+Interstate Highway,070A,259.940,5/4/2023,20:01:00,39.71355,-105.19353,Sideswipe Same Direction,2.0,Clear,40.0,F
+Interstate Highway,070A,298.000,5/5/2023,15:30:00,39.73916,-104.55139,Rear-End,2.0,Dust,44.0,F
+Interstate Highway,070A,298.953,5/5/2023,16:35:00,39.73909,-104.53431,Rear-End,2.0,Dust,69.0,F
+Interstate Highway,070A,289.364,5/6/2023,15:27:00,39.74012,-104.71219,Sideswipe Same Direction,2.0,Clear,73.0,F
+Interstate Highway,070A,300.00,5/7/2023,02:30:00,39.73838,-104.51477,Sideswipe Same Direction,2.0,Clear,19.0,M
+Interstate Highway,070A,260.808,5/9/2023,19:57:00,39.725588,-105.182779,Guardrail Face,1.0,Cloudy,57.0,M
+Interstate Highway,070A,244.555,5/10/2023,15:42:00,39.74394,-105.43399,Concrete Highway Barrier,1.0,Rain,27.0,M
+Interstate Highway,070A,288.219,5/11/2023,10:30:00,39.74042,-104.73246,Concrete Highway Barrier,1.0,Rain,23.0,F
+Interstate Highway,070A,261.400,5/11/2023,11:10:00,39.728567,-105.173887,Cable Rail,1.0,Rain,49.0,M
+Interstate Highway,070A,305.519,5/11/2023,15:00:00,39.73811,-104.41245,Sideswipe Same Direction,2.0,Rain,47.0,M
+Interstate Highway,070A,261.599,5/11/2023,21:47:00,39.73064,-105.17076,Embankment,1.0,Rain,23.0,M
+Frontage Road,070A,288.138,5/11/2023,23:27:00,39.7397,-104.73486,Electrical/Utility Box,1.0,Rain,,
+Interstate Highway,070A,261.121,5/12/2023,06:52:00,39.72612,-105.17804,Guardrail Face,1.0,Rain,47.0,F
+Interstate Highway,070A,261.106,5/12/2023,08:37:00,39.72595,-105.17822,Guardrail Face,1.0,Rain,19.0,F
+Frontage Road,070A,289.164,5/12/2023,09:15:00,39.73829,-104.71625,Broadside,2.0,Rain,33.0,M
+Interstate Highway,070A,261.269,5/12/2023,11:52:00,39.72761,-105.1761,Other Non-Fixed Object Describe in Narrative),4.0,Cloudy,47.0,M
+Frontage Road,070A,289.164,5/12/2023,15:00:00,39.73797,-104.7161,Broadside,2.0,Clear,51.0,M
+Frontage Road,070A,289.164,5/12/2023,16:15:00,39.73797,-104.7161,Broadside,2.0,Clear,32.0,F
+Interstate Highway,070A,244.250,5/12/2023,18:35:00,39.74643,-105.43701,Concrete Highway Barrier,1.0,Cloudy,56.0,M
+Interstate Highway,070A,252.941,5/14/2023,20:19:00,39.71299,-105.30514,Ground,1.0,Rain,24.0,F
+Interstate Highway,070A,260.150,5/16/2023,07:51:00,39.71656,-105.19109,Sideswipe Same Direction,2.0,Clear,20.0,F
+Interstate Highway,070A,290.000,5/16/2023,12:45:00,39.74008,-104.6993,Cable Rail,1.0,Clear,29.0,M
+Interstate Highway,070A,289.453,5/16/2023,20:05:00,39.74009,-104.71078,Concrete Highway Barrier,3.0,Rain,20.0,M
+Interstate Highway,070A,291.222,5/17/2023,07:00:00,39.73999,-104.67831,Cable Rail,1.0,Clear,62.0,F
+Interstate Highway,070A,262.000,5/18/2023,15:24:00,39.7348,-105.165856,Rear-End,2.0,Clear,43.0,M
+Interstate Highway,070A,259.640,5/19/2023,10:15:00,39.709768,-105.193582,Overturning/Rollover,1.0,Cloudy,2.0,M
+Interstate Highway,070A,243.858,5/19/2023,13:36:00,39.744,-105.446,Sideswipe Same Direction,2.0,Cloudy,,
+Interstate Highway,070A,260.479,5/19/2023,20:25:00,39.72025,-105.18758,Sideswipe Same Direction,3.0,Cloudy,,
+Interstate Highway,070A,153.805,5/20/2023,13:45:00,39.71061,-106.71319,Embankment,1.0,Rain,29.0,M
+Interstate Highway,070A,262.656,5/23/2023,08:36:00,39.74116,-105.15873,Fence,1.0,Clear,19.0,M
+Interstate Highway,070A,306.000,5/23/2023,10:00:00,39.73678,-104.40284,Domestic Animal,1.0,Clear,26.0,M
+Interstate Highway,070A,154.111,5/23/2023,11:55:00,39.71113,-106.7086,Rear-End,2.0,Clear,24.0,M
+Interstate Highway,070A,245.356,5/25/2023,11:47:00,39.73328,-105.42752,Vehicle Debris or Cargo,1.0,Clear,39.0,M
+Interstate Highway,070A,300.367,5/25/2023,15:25:00,39.73836,-104.50733,Vehicle Debris or Cargo,2.0,Cloudy,,
+Interstate Highway,070A,244.260,5/25/2023,22:35:00,39.7467,-105.43698,Overturning/Rollover,1.0,Clear,52.0,M
+Interstate Highway,070A,299.318,5/26/2023,01:35:00,39.73827,-104.52719,Parked Motor Vehicle,2.0,Clear,38.0,M
+Frontage Road,070A,291.222,5/26/2023,16:05:00,39.73956,-104.6783,Broadside,2.0,Rain,42.0,F
+Interstate Highway,070A,294.799,5/28/2023,02:30:00,39.74035,-104.61364,Sign,1.0,Clear,20.0,M
+Interstate Highway,070A,259.829,6/1/2023,01:54:00,39.712664,-105.193633,Pedestrian,1.0,Clear,,
+Interstate Highway,070A,246.674,6/1/2023,12:37:00,39.72102,-105.40827,Sideswipe Same Direction,2.0,Cloudy,69.0,M
+Interstate Highway,070A,249.229,6/1/2023,14:09:00,39.71239,-105.36394,Guardrail End,1.0,Rain,24.0,M
+Interstate Highway,070A,249.679,6/3/2023,14:13:00,39.71198,-105.35554,Wild Animal,1.0,Cloudy,65.0,M
+Interstate Highway,070A,227.503,6/3/2023,14:50:00,39.70956,-105.69782,Sideswipe Same Direction,2.0,Rain,26.0,F
+Interstate Highway,070A,248.800,6/3/2023,21:42:00,39.715089,-105.370517,Wild Animal,1.0,Rain,38.0,M
+Interstate Highway,070A,293.000,6/4/2023,06:46:00,39.73864,-104.64509,Delineator/Milepost,1.0,Rain,38.0,F
+Interstate Highway,070A,298.692,6/4/2023,07:01:00,39.73907,-104.53922,Ground,1.0,Rain,36.0,M
+Interstate Highway,070A,253.059,6/4/2023,08:48:00,39.7124,-105.30318,Sign,1.0,Rain,27.0,F
+Interstate Highway,070A,305.494,6/4/2023,09:50:00,39.73834,-104.41281,Overturning/Rollover,1.0,Rain,42.0,M
+Interstate Highway,070A,290.000,6/4/2023,13:00:00,39.74024,-104.69957,Sideswipe Same Direction,2.0,Rain,23.0,F
+Interstate Highway,070A,245.695,6/4/2023,13:47:00,39.72912,-105.42437,Overturning/Rollover,1.0,Cloudy,76.0,F
+Interstate Highway,070A,242.374,6/4/2023,14:20:00,39.745,-105.47316,Sideswipe Same Direction,3.0,Clear,35.0,M
+Interstate Highway,070A,302.971,6/4/2023,16:25:00,39.73831,-104.45944,Ditch,1.0,Rain,30.0,M
+Interstate Highway,070A,307.000,6/5/2023,06:30:00,39.73444,-104.38617,Overturning/Rollover,1.0,Clear,61.0,F
+Interstate Highway,070A,307.000,6/5/2023,10:15:00,39.73423,-104.38454,Rear-End,2.0,Clear,64.0,F
+Interstate Highway,070A,239.971,6/5/2023,15:46:00,39.74126,-105.51417,Guardrail Face,1.0,Rain,53.0,M
+Interstate Highway,070A,243.550,6/6/2023,12:24:00,39.74336,-105.4514,Vehicle Debris or Cargo,1.0,Cloudy,28.0,F
+Interstate Highway,070A,242.844,6/6/2023,20:25:00,39.74664,-105.46401,Guardrail Face,1.0,,34.0,M
+Interstate Highway,070A,261.858,6/8/2023,08:00:00,39.73351,-105.16752,Rear-End,2.0,Clear,29.0,M
+Interstate Highway,070A,262.571,6/8/2023,20:25:00,39.74028,-105.1599,Broadside,2.0,Rain,65.0,F
+Interstate Highway,070A,253.297,6/10/2023,00:45:00,39.71102,-105.29893,Sign,1.0,Clear,28.0,F
+Interstate Highway,070A,303.000,6/10/2023,20:15:00,39.73843,-104.45844,Vehicle Debris or Cargo,2.0,Cloudy,38.0,M
+Interstate Highway,070A,230.137,6/11/2023,10:48:00,39.74406,-105.68106,Rear-End,2.0,Cloudy,28.0,M
+Interstate Highway,070A,261.541,6/12/2023,10:55:00,39.72999,-105.1717,Cable Rail,1.0,Rain,40.0,M
+Interstate Highway,070A,244.197,6/12/2023,16:18:00,39.74515,-105.44034,Sideswipe Same Direction,2.0,Cloudy,75.0,F
+Interstate Highway,070A,295.378,6/12/2023,17:00:00,39.73983,-104.60035,Sideswipe Same Direction,2.0,Cloudy,55.0,F
+Interstate Highway,070A,230.793,6/13/2023,07:24:00,39.74867,-105.67054,Cable Rail,1.0,Cloudy,61.0,M
+Frontage Road,070A,291.222,6/13/2023,14:15:00,39.73963,-104.67829,Broadside,2.0,Clear,32.0,F
+Interstate Highway,070A,260.250,6/14/2023,10:18:00,39.717478,-105.190109,Sideswipe Same Direction,2.0,Clear,53.0,M
+Interstate Highway,070A,241.697,6/14/2023,11:27:00,39.7445,-105.48596,Sideswipe Same Direction,2.0,Clear,74.0,F
+Interstate Highway,070A,239.000,6/16/2023,16:04:00,39.743572,-105.532243,Concrete Highway Barrier,1.0,Rain,35.0,M
+Frontage Road,070A,291.222,6/16/2023,22:20:00,39.73963,-104.67831,Broadside,2.0,Clear,30.0,F
+Interstate Highway,070A,227.572,6/18/2023,17:13:00,39.7105,-105.69742,Rear-End,2.0,Clear,25.0,M
+Interstate Highway,070A,261.968,6/20/2023,16:06:00,39.73442,-105.16599,Rear-End,3.0,Clear,44.0,M
+Interstate Highway,070A,289.000,6/21/2023,06:20:00,39.74035,-104.72247,Wild Animal,1.0,Clear,57.0,F
+Interstate Highway,070A,259.803,6/21/2023,10:40:00,39.7126,-105.19399,Overhead Structure (Bridge),2.0,Clear,54.0,M
+Interstate Highway,070A,261.900,6/23/2023,14:30:00,39.73376,-105.16679,Guardrail Face,1.0,Clear,29.0,M
+Interstate Highway,070A,245.285,6/24/2023,08:15:00,39.73421,-105.42819,Rear-End,2.0,Clear,31.0,F
+Interstate Highway,070A,302.000,6/25/2023,22:50:00,39.73824,-104.46255,Rear-End,2.0,Clear,35.0,F
+Interstate Highway,070A,261.000,6/26/2023,11:50:00,39.724859,-105.179741,Ground,1.0,Clear,19.0,M
+Interstate Highway,070A,244.328,6/27/2023,11:25:00,39.74559,-105.43791,Vehicle Debris or Cargo,3.0,Wind,,
+Interstate Highway,070A,153.956,6/27/2023,18:20:00,39.71081,-106.7101,Delineator/Milepost,1.0,Clear,29.0,M
+Interstate Highway,070A,259.160,6/30/2023,14:58:00,39.72062,-105.1861,Rear-End,2.0,Rain,41.0,F
+Interstate Highway,070A,244.006,7/1/2023,08:13:00,39.74376,-105.44342,Guardrail Face,1.0,Clear,35.0,M
+Interstate Highway,070A,296.447,7/2/2023,13:00:00,39.73995,-104.58059,Sideswipe Same Direction,2.0,Clear,34.0,M
+Interstate Highway,070A,228.065,7/2/2023,13:39:00,39.71848,-105.69613,Rear-End,4.0,Clear,73.0,F
+Interstate Highway,070A,261.630,7/4/2023,14:32:00,39.73066,-105.17204,Sideswipe Same Direction,2.0,Cloudy,39.0,F
+Interstate Highway,070A,230.601,7/5/2023,22:24:00,39.74731,-105.67362,Wild Animal,1.0,Rain,35.0,F
+Interstate Highway,070A,261.658,7/7/2023,10:30:00,39.73162,-105.17032,Rear-End,2.0,Clear,42.0,M
+Interstate Highway,070A,242.835,7/9/2023,06:30:00,39.74665,-105.46415,Concrete Highway Barrier,1.0,Clear,,
+Interstate Highway,070A,260.628,7/9/2023,18:40:00,39.72135,-105.18509,Rear-End,3.0,Clear,33.0,M
+Interstate Highway,070A,243.80,7/10/2023,06:23:00,39.74436,-105.44696,Sideswipe Same Direction,2.0,Cloudy,14.0,M
+Interstate Highway,070A,294.065,7/10/2023,22:35:00,39.73999,-104.62683,Overturning/Rollover,1.0,Clear,22.0,M
+Interstate Highway,070A,288.321,7/13/2023,13:15:00,39.74091,-104.73045,Sideswipe Same Direction,2.0,Clear,38.0,F
+Interstate Highway,070A,240.15,7/14/2023,13:07:00,39.74136,-105.51387,Rear-End,3.0,Clear,,
+Interstate Highway,070A,241.75,7/14/2023,16:28:00,39.74446,-105.47746,Rear-End,2.0,Clear,32.0,F
+Interstate Highway,070A,261.000,7/15/2023,15:44:00,39.72492,-105.179715,Rear-End,2.0,Clear,33.0,F
+Interstate Highway,070A,261.000,7/15/2023,15:44:00,39.72492,-105.179715,Rear-End,2.0,Clear,33.0,M
+Interstate Highway,070A,296.000,7/15/2023,22:00:00,39.73961,-104.58101,Guardrail Face,1.0,Clear,34.0,M
+Interstate Highway,070A,302.000,7/16/2023,16:40:00,39.73819,-104.47746,Parked Motor Vehicle,2.0,Clear,29.0,M
+Interstate Highway,070A,240.92,7/17/2023,11:34:00,39.74072,-105.49731,Rear-End,2.0,Clear,26.0,M
+Interstate Highway,070A,304.000,7/18/2023,14:50:00,39.7384,-104.42665,Parked Motor Vehicle,2.0,Clear,,U
+Interstate Highway,070A,248.565,7/20/2023,10:18:00,39.71584,-105.37439,Rear-End,2.0,Cloudy,,
+Interstate Highway,070A,296.470,7/20/2023,11:30:00,39.73988,-104.57997,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,252.302,7/20/2023,15:53:00,39.71214,-105.31579,Concrete Highway Barrier,1.0,Rain,27.0,M
+Interstate Highway,070A,252.84,7/20/2023,16:00:00,39.71357,-105.30685,Rear-End,2.0,Rain,19.0,F
+Interstate Highway,070A,240.00,7/21/2023,05:27:00,39.74131,-105.51381,Concrete Highway Barrier,1.0,Clear,72.0,M
+Interstate Highway,070A,261.598,7/21/2023,14:30:00,39.73058,-105.17074,Rear-End,6.0,Clear,44.0,M
+Interstate Highway,070A,244.218,7/23/2023,12:10:00,39.74532,-105.44005,Overturning/Rollover,1.0,Clear,43.0,M
+Interstate Highway,070A,245.682,7/23/2023,12:50:00,39.7292,-105.42472,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,252.576,7/23/2023,17:10:00,39.71408,-105.3117,Overturning/Rollover,1.0,Clear,,
+Interstate Highway,070A,261.02,7/23/2023,17:45:00,39.72476,-105.18391,Concrete Highway Barrier,1.0,Clear,60.0,F
+Interstate Highway,070A,243.197,7/23/2023,19:30:00,39.74501,-105.45728,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,244.00,7/24/2023,07:58:00,39.74347,-105.44346,Wild Animal,1.0,Clear,30.0,M
+Interstate Highway,070A,260.78,7/24/2023,14:50:00,39.72279,-105.18294,Rear-End,3.0,Clear,76.0,M
+Interstate Highway,070A,261.030,7/24/2023,14:50:00,39.7254,-105.17925,Rear-End,3.0,Clear,76.0,M
+Interstate Highway,070A,261.040,7/24/2023,23:34:00,39.72555,-105.18283,Guardrail Face,1.0,Clear,40.0,M
+Interstate Highway,070A,239.323,7/25/2023,00:10:00,39.74253,-105.52614,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,245.891,7/25/2023,14:05:00,39.72675,-105.42221,Overturning/Rollover,1.0,Clear,39.0,M
+Interstate Highway,070A,261.000,7/25/2023,18:10:00,39.72492,-105.179715,Sideswipe Same Direction,3.0,Clear,45.0,M
+Interstate Highway,070A,289.164,7/26/2023,02:15:00,39.7395892,-104.7160112,Pedestrian,1.0,Clear,,
+Interstate Highway,070A,260.48,7/26/2023,16:30:00,39.7201,-105.18736,Rear-End,2.0,Cloudy,18.0,M
+Interstate Highway,070A,260.78,7/26/2023,16:30:00,39.7200921,-105.1873433,Rear-End,2.0,Cloudy,18.0,M
+Interstate Highway,070A,302.146,7/27/2023,05:55:00,39.73856,-104.46942,Delineator/Milepost,1.0,Clear,41.0,M
+Interstate Highway,070A,288.800,7/27/2023,16:40:00,39.74024,-104.72504,Rear-End,2.0,Cloudy,55.0,F
+Interstate Highway,070A,263.191,7/27/2023,23:55:00,39.74658,-105.1517,Rear-End,2.0,Clear,21.0,F
+Interstate Highway,070A,261.302,7/28/2023,15:00:00,39.72793,-105.17562,Sideswipe Same Direction,2.0,Clear,66.0,F
+Interstate Highway,070A,244.477,7/29/2023,15:00:00,39.7446,-105.435278,Concrete Highway Barrier,1.0,Clear,59.0,M
+Interstate Highway,070A,249.898,7/31/2023,08:02:00,39.7111,-105.35155,Rear-End,2.0,Clear,43.0,M
+Interstate Highway,070A,243.615,7/31/2023,11:46:00,39.74388,-105.4503,Rear-End,2.0,Clear,22.0,F
+Interstate Highway,070A,271.271,7/31/2023,12:29:00,39.72248,-105.4134,Rear-End,2.0,Clear,26.0,M
+Interstate Highway,070A,239.00,7/31/2023,,39.743564,-105.532243,Concrete Highway Barrier,1.0,Clear,64.0,M
+Interstate Highway,070A,261.000,8/1/2023,16:57:00,39.724916,-105.179737,Rear-End,8.0,Rain,30.0,F
+Interstate Highway,070A,260.239,8/1/2023,17:24:00,39.71734,-105.19021,Sideswipe Same Direction,2.0,Cloudy,40.0,M
+Interstate Highway,070A,249.137,8/2/2023,13:20:00,39.71256,-105.36561,Guardrail Face,1.0,Cloudy,17.0,F
+Interstate Highway,070A,291.222,8/2/2023,17:04:00,39.74,-104.67885,Other Non-Fixed Object Describe in Narrative),1.0,Cloudy,76.0,F
+Interstate Highway,070A,287.219,8/2/2023,21:19:00,39.7494461,-104.7480946,Cable Rail,1.0,Rain,16.0,M
+Interstate Highway,070A,261.620,8/5/2023,20:43:00,39.73088,-105.16947,Other Non-Collision,1.0,Clear,55.0,M
+Interstate Highway,070A,249.916,8/5/2023,20:45:00,39.71074,-105.35141,Sideswipe Same Direction,2.0,Clear,46.0,M
+Frontage Road,070A,289.264,8/5/2023,21:15:00,39.73977,-104.71219,Head-On,2.0,Clear,30.0,F
+Interstate Highway,070A,288.000,8/6/2023,00:30:00,39.74272,-104.73675,Concrete Highway Barrier,1.0,Clear,20.0,F
+Interstate Highway,070A,304.370,8/6/2023,12:35:00,39.738887,-104.433266,Rear-End,2.0,Clear,64.0,F
+Interstate Highway,070A,262.321,8/7/2023,07:18:00,39.737552,-105.161993,Rear-End,2.0,Clear,22.0,M
+Interstate Highway,070A,248.000,8/7/2023,22:50:00,39.71567,-105.38361,Wild Animal,1.0,Clear,49.0,M
+Interstate Highway,070A,247.106,8/7/2023,23:23:00,39.7181,-105.40028,Guardrail Face,1.0,Clear,34.0,M
+Frontage Road,070A,289.164,8/8/2023,07:30:00,39.73806,-104.7159,Sideswipe Same Direction,2.0,Clear,31.0,M
+Interstate Highway,070A,262.000,8/8/2023,08:21:00,39.73467,-105.16607,Sideswipe Same Direction,2.0,Clear,41.0,M
+Interstate Highway,070A,261.640,8/8/2023,10:45:00,39.73063,-105.17233,Rear-End,2.0,Clear,67.0,M
+Interstate Highway,070A,241.130,8/8/2023,14:21:00,39.74234,-105.49391,Rear-End,2.0,Clear,73.0,M
+Interstate Highway,070A,304.000,8/8/2023,16:00:00,39.73817,-104.44017,Rear-End,2.0,Clear,32.0,M
+Interstate Highway,070A,254.000,8/8/2023,17:15:00,39.709008,-105.286147,Wild Animal,1.0,Clear,65.0,F
+Interstate Highway,070A,240.50,8/9/2023,15:41:00,39.74031,-105.50494,Rear-End,3.0,Clear,79.0,M
+Interstate Highway,070A,260.869,8/9/2023,18:41:00,39.72387,-105.18065,Overturning/Rollover,1.0,Clear,35.0,F
+Interstate Highway,070A,253.000,8/10/2023,11:15:00,39.71393,-105.30962,Rear-End,2.0,Clear,74.0,F
+Interstate Highway,070A,246.636,8/10/2023,15:49:00,39.7211,-105.409,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,228.053,8/11/2023,03:28:00,39.71699,-105.69621,Delineator/Milepost,1.0,Clear,27.0,M
+Interstate Highway,070A,260.778,8/11/2023,15:44:00,39.72361,-105.18171,Rear-End,2.0,Clear,41.0,M
+Interstate Highway,070A,262.561,8/11/2023,16:56:00,39.73985,-105.15932,Rear-End,2.0,Clear,17.0,M
+Interstate Highway,070A,304.350,8/13/2023,00:58:00,39.737623,-104.43368,Guardrail Face,1.0,Clear,24.0,F
+Interstate Highway,070A,153.700,8/13/2023,02:40:00,39.70995,-106.71514,Wild Animal,1.0,Clear,37.0,M
+Interstate Highway,070A,244.842,8/13/2023,12:18:00,39.73988,-105.43241,Rear-End,2.0,Clear,47.0,M
+Interstate Highway,070A,299.328,8/14/2023,11:35:00,39.739293,-104.526958,Broadside,1.0,Clear,23.0,M
+Interstate Highway,070A,262.721,8/14/2023,15:23:00,39.74183,-105.15747,Sideswipe Same Direction,2.0,Clear,48.0,M
+Interstate Highway,070A,244.00,8/14/2023,19:30:00,39.74347,-105.44346,Other Fixed Object (Describe in Narrative),2.0,Clear,42.0,M
+Interstate Highway,070A,261.000,8/15/2023,02:39:00,39.72492,-105.17972,Guardrail Face,1.0,Clear,17.0,M
+Interstate Highway,070A,266.865,8/17/2023,09:02:00,39.74602,-104.98877,Rear-End,2.0,Clear,25.0,M
+Interstate Highway,070A,254.000,8/17/2023,16:52:00,39.70922,-105.28614,Sideswipe Same Direction,2.0,Cloudy,28.0,M
+Interstate Highway,070A,237.893,8/17/2023,18:00:00,39.75,-105.55,Rear-End,2.0,Clear,19.0,M
+Interstate Highway,070A,289.000,8/17/2023,23:45:00,39.74013,-104.71988,Overturning/Rollover,1.0,Clear,29.0,F
+Interstate Highway,070A,244.839,8/18/2023,11:15:00,39.73993,-105.43242,Parked Motor Vehicle,2.0,Clear,44.0,M
+Interstate Highway,070A,266.865,8/18/2023,11:34:00,39.74602,-104.98877,Overturning/Rollover,1.0,Clear,38.0,M
+Interstate Highway,070A,261.387,8/18/2023,14:50:00,39.72855,-105.17421,Rear-End,2.0,Clear,28.0,M
+Interstate Highway,070A,267.903,8/18/2023,17:53:00,39.7402,-105.10017,Rear-End,2.0,Clear,25.0,F
+Frontage Road,070A,291.222,8/19/2023,15:50:00,39.73956,-104.67831,Rear-End,2.0,Clear,43.0,M
+Interstate Highway,070A,262.471,8/21/2023,13:46:00,39.73922,-105.15867,Rear-End,2.0,Clear,52.0,M
+Interstate Highway,070A,238.00,8/21/2023,17:26:00,39.74965,-105.54888,Guardrail Face,1.0,Clear,70.0,F
+Interstate Highway,070A,245.000,8/22/2023,06:11:00,39.73783,-105.43109,Concrete Highway Barrier,1.0,Clear,67.0,M
+Interstate Highway,070A,259.855,8/22/2023,07:17:00,39.71414,-105.19181,Rear-End,2.0,Clear,57.0,M
+Interstate Highway,070A,239.000,8/23/2023,16:00:00,39.74347,-105.53221,Sideswipe Same Direction,1.0,Clear,64.0,M
+Interstate Highway,070A,296.000,8/23/2023,23:09:00,39.7399548,-104.5888303,Rear-End,2.0,Clear,40.0,F
+Interstate Highway,070A,240.000,8/24/2023,13:10:00,39.74127,-105.51388,Sideswipe Same Direction,2.0,Clear,71.0,M
+Interstate Highway,070A,288.000,8/25/2023,07:10:00,39.7427,-104.73676,Rear-End,3.0,Clear,34.0,F
+Interstate Highway,070A,261.635,8/25/2023,16:15:00,39.73102,-105.17021,Rear-End,2.0,Rain,23.0,M
+Interstate Highway,070A,239.500,8/25/2023,18:15:00,39.74146,-105.52311,Concrete Highway Barrier,1.0,Rain,21.0,F
+Interstate Highway,070A,154.000,8/26/2023,15:54:00,39.710973,-106.709203,Tree,1.0,Rain,33.0,M
+Interstate Highway,070A,295.000,8/27/2023,11:05:00,39.73992,-104.60723,Overturning/Rollover,1.0,Clear,38.0,M
+Interstate Highway,070A,242.800,8/27/2023,18:30:00,39.74657,-105.46462,Guardrail Face,1.0,Rain,49.0,M
+Interstate Highway,070A,301.348,8/28/2023,14:35:00,39.73854,-104.48962,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,253.000,8/30/2023,16:17:00,39.71373,-105.30915,Delineator/Milepost,1.0,Clear,28.0,M
+Interstate Highway,070A,252.000,8/31/2023,03:25:00,39.71402,-105.31022,Concrete Highway Barrier,1.0,Clear,71.0,M
+Interstate Highway,070A,289.403,8/31/2023,10:36:00,39.74027,-104.71167,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,252.000,9/1/2023,18:18:00,39.70942,-105.319,Rear-End,2.0,Clear,57.0,M
+Frontage Road,070A,291.222,9/1/2023,20:35:00,39.73956,-104.6783,Broadside,2.0,Clear,37.0,M
+Interstate Highway,070A,260.695,9/2/2023,15:29:00,39.72258,-105.18322,Rear-End,3.0,Clear,43.0,M
+Interstate Highway,070A,288.000,9/2/2023,21:45:00,39.742704,-104.736734,Parked Motor Vehicle,2.0,Clear,76.0,F
+Interstate Highway,070A,260.858,9/3/2023,14:27:00,39.72371,-105.18159,Rear-End,2.0,Clear,24.0,F
+Interstate Highway,070A,291.000,9/4/2023,00:14:00,39.740037,-104.682386,Delineator/Milepost,1.0,Clear,19.0,M
+Interstate Highway,070A,306.859,9/5/2023,10:10:00,39.73434,-104.38693,Vehicle Debris or Cargo,1.0,Clear,33.0,M
+Interstate Highway,070A,153.500,9/7/2023,16:42:00,39.708108,-106.718482,Rear-End,2.0,Clear,48.0,M
+Interstate Highway,070A,261.530,9/9/2023,12:05:00,39.72994,-105.17273,Sideswipe Same Direction,2.0,Clear,74.0,M
+Interstate Highway,070A,296.142,9/9/2023,14:58:00,39.73976,-104.58619,Sign,1.0,Clear,24.0,M
+Interstate Highway,070A,244.000,9/10/2023,09:27:00,39.74382,-105.44344,Sideswipe Same Direction,2.0,Cloudy,26.0,M
+Interstate Highway,070A,260.869,9/10/2023,12:10:00,39.72406,-105.18101,Sideswipe Same Direction,2.0,Clear,66.0,M
+Interstate Highway,070A,261.000,9/13/2023,17:14:00,39.74292,-105.17971,Vehicle Debris or Cargo,2.0,Clear,34.0,M
+Interstate Highway,070A,260.788,9/13/2023,17:14:00,39.72311,-105.1831,Vehicle Debris or Cargo,2.0,Clear,34.0,M
+Interstate Highway,070A,253.000,9/14/2023,16:50:00,39.71274,-105.30421,Sideswipe Same Direction,2.0,Rain,41.0,M
+Interstate Highway,070A,303.269,9/14/2023,17:01:00,39.738131,-104.453861,Parked Motor Vehicle,2.0,Sleet or Hail,24.0,M
+Interstate Highway,070A,261.640,9/15/2023,13:35:00,39.730575,-105.172395,Rear-End,2.0,Clear,51.0,M
+Interstate Highway,070A,255.99,9/15/2023,13:45:00,39.7336,-105.25051,Overturning/Rollover,1.0,Cloudy,29.0,M
+Interstate Highway,070A,288.386,9/17/2023,18:15:00,39.74017,-104.72904,Sideswipe Same Direction,2.0,Clear,22.0,M
+Interstate Highway,070A,288.000,9/18/2023,07:15:00,39.7427,-104.73674,Overtaking Turn,2.0,Clear,34.0,F
+Interstate Highway,070A,288.331,9/18/2023,07:15:00,39.74087,-104.73073,Sideswipe Same Direction,2.0,Clear,34.0,F
+Interstate Highway,070A,261.030,9/18/2023,08:14:00,39.72539,-105.17912,Bridge Structure (Not Overhead),1.0,Clear,16.0,M
+Interstate Highway,070A,297.976,9/18/2023,10:05:00,39.73932,-104.55267,Ditch,1.0,Clear,29.0,F
+Interstate Highway,070A,287.212,9/19/2023,16:21:00,39.74908,-104.74735,Guardrail Face,1.0,Cloudy,18.0,F
+Frontage Road,070A,242.980,9/20/2023,21:18:00,39.74686,-105.46074,Guardrail Face,1.0,Clear,43.0,M
+Interstate Highway,070A,261.640,9/21/2023,12:00:00,39.73056,-105.17237,Rear-End,2.0,Cloudy,57.0,M
+Frontage Road,070A,289.285,9/21/2023,13:52:00,39.73789,-104.7139,Approach Turn,3.0,Clear,,
+Interstate Highway,070A,289.000,9/22/2023,14:36:00,39.74011,-104.70476,Rear-End,2.0,Clear,39.0,M
+Interstate Highway,070A,253.685,9/24/2023,19:47:00,39.7095,-105.29193,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,260.006,9/25/2023,12:32:00,39.7144,-105.19231,Concrete Highway Barrier,1.0,Clear,32.0,M
+Interstate Highway,070A,244.555,9/27/2023,01:50:00,39.74405,-105.433908,Overturning/Rollover,1.0,Clear,59.0,M
+Interstate Highway,070A,262.531,9/28/2023,16:04:00,39.74001,-105.15891,Rear-End,2.0,Clear,16.0,F
+Interstate Highway,070A,229.000,9/29/2023,13:17:00,39.73056,-105.69269,Sideswipe Same Direction,2.0,Clear,67.0,M
+Interstate Highway,070A,246.000,9/29/2023,19:33:00,39.72586,-105.42091,Sideswipe Same Direction,2.0,Clear,19.0,F
+Interstate Highway,070A,247.50,9/30/2023,03:15:00,39.71548,-105.39355,Guardrail End,1.0,Clear,21.0,M
+Interstate Highway,070A,299.000,10/2/2023,02:15:00,39.7387,-104.51488,Wild Animal,1.0,Clear,35.0,F
+Interstate Highway,070A,289.000,10/2/2023,11:30:00,39.74015,-104.71834,Sideswipe Same Direction,2.0,Clear,35.0,M
+Interstate Highway,070A,252.521,10/2/2023,12:52:00,39.71424,-105.31282,Overturning/Rollover,1.0,Clear,33.0,M
+Interstate Highway,070A,253.448,10/2/2023,17:35:00,39.71056,-105.2961,Rear-End,3.0,Cloudy,50.0,M
+Interstate Highway,070A,289.000,10/4/2023,07:06:00,39.74028,-104.7193,Rear-End,2.0,Clear,58.0,M
+Interstate Highway,070A,239.853,10/5/2023,11:38:00,39.74085,-105.51623,Sideswipe Same Direction,2.0,Clear,72.0,F
+Interstate Highway,070A,259.887,10/5/2023,11:58:00,39.71327,-105.19326,Other Non-Fixed Object Describe in Narrative),2.0,Clear,47.0,M
+Interstate Highway,070A,261.638,10/5/2023,18:34:00,39.73103,-105.17012,Rear-End,6.0,Clear,27.0,F
+Interstate Highway,070A,260.081,10/6/2023,09:12:00,39.71559,-105.19214,Large Rocks or Boulder,1.0,Cloudy,23.0,M
+Interstate Highway,070A,304.460,10/7/2023,05:30:00,39.73781,-104.43157,Ditch,1.0,Clear,62.0,M
+Interstate Highway,070A,277.504,10/10/2023,05:55:00,39.74008,-104.922509,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,260.946,10/11/2023,16:12:00,39.7246,-105.18081,Rear-End,4.0,Rain,38.0,M
+Interstate Highway,070A,260.952,10/11/2023,16:12:00,39.72467,-105.1807,Rear-End,2.0,Rain,18.0,M
+Interstate Highway,070A,248.26,10/11/2023,17:30:00,39.71468,-105.37936,Guardrail Face,1.0,Rain,43.0,F
+Interstate Highway,070A,241.000,10/13/2023,17:30:00,39.74132,-105.49597,Rear-End,2.0,Clear,23.0,F
+Interstate Highway,070A,300.20,10/13/2023,21:55:00,39.73832,-104.51071,Vehicle Debris or Cargo,2.0,Clear,29.0,M
+Interstate Highway,070A,260.150,10/15/2023,15:13:00,39.71579,-105.19234,Overturning/Rollover,1.0,Clear,71.0,M
+Interstate Highway,070A,305.902,10/16/2023,08:55:00,39.73724,-104.40693,Embankment,1.0,Clear,66.0,M
+Interstate Highway,070A,289.164,10/17/2023,06:55:00,39.7407,-104.71596,Sideswipe Same Direction,2.0,Clear,33.0,F
+Interstate Highway,070A,299.328,10/17/2023,15:24:00,39.7393,-104.52698,Broadside,2.0,Clear,61.0,M
+Interstate Highway,070A,262.254,10/17/2023,18:09:00,39.73712,-105.163,Sideswipe Same Direction,7.0,Clear,32.0,F
+Interstate Highway,070A,262.900,10/17/2023,20:18:00,39.74297,-105.1552,Rear-End,2.0,Clear,,
+Interstate Highway,070A,289.164,10/18/2023,06:03:00,39.73957,-104.71589,Broadside,2.0,Clear,74.0,M
+Interstate Highway,070A,239.983,10/18/2023,07:21:00,39.74127,-105.51402,Other Non-Fixed Object Describe in Narrative),1.0,Clear,29.0,M
+Interstate Highway,070A,260.299,10/18/2023,11:00:00,39.71917,-105.18827,Sideswipe Same Direction,2.0,Clear,18.0,F
+Interstate Highway,070A,252.299,10/18/2023,12:01:00,39.71216,-105.31586,Guardrail Face,1.0,Cloudy,74.0,M
+Interstate Highway,070A,259.608,10/18/2023,15:55:00,39.70994,-105.19573,Sideswipe Same Direction,2.0,Clear,30.0,M
+Interstate Highway,070A,322.000,10/20/2023,11:03:00,39.7397,-104.5834,Guardrail Face,1.0,Clear,49.0,M
+Interstate Highway,070A,288.800,10/20/2023,18:15:00,39.74004,-104.72652,Barricade,1.0,Clear,39.0,M
+Frontage Road,070A,291.822,10/20/2023,20:21:00,39.73982,-104.68552,Overturning/Rollover,1.0,Clear,47.0,M
+Interstate Highway,070A,290.698,10/22/2023,08:15:00,39.74016,-104.6866,Sideswipe Same Direction,1.0,Clear,,
+Frontage Road,070A,291.222,10/23/2023,15:40:00,39.73962,-104.6783,Broadside,2.0,Clear,61.0,M
+Interstate Highway,070A,261.713,10/24/2023,22:23:00,39.73211,-105.16937,Rear-End,2.0,Clear,39.0,M
+Interstate Highway,070A,246.985,10/25/2023,01:12:00,39.7196,-105.40221,Embankment,1.0,Clear,30.0,F
+Interstate Highway,070A,305.000,10/26/2023,16:15:00,39.73811,-104.42138,Sideswipe Same Direction,2.0,Fog,29.0,M
+Interstate Highway,070A,263.034,10/27/2023,19:09:00,39.74453,-105.1533,Vehicle Debris or Cargo,3.0,Clear,43.0,M
+Interstate Highway,070A,263.00,10/27/2023,19:09:00,39.74453,-105.1533,Vehicle Debris or Cargo,3.0,Clear,43.0,M
+Interstate Highway,070A,262.03,10/28/2023,06:28:00,39.73495,-105.16529,Overturning/Rollover,1.0,Freezing Rain or Freezing Drizzle,40.0,F
+Interstate Highway,070A,289.000,10/28/2023,07:57:00,39.74021,-104.72245,Sideswipe Opposite Direction,2.0,Snow,51.0,F
+Interstate Highway,070A,239.909,10/28/2023,14:00:00,39.74115,-105.51517,Concrete Highway Barrier,1.0,Snow,21.0,M
+Interstate Highway,070A,316.000,10/28/2023,14:28:00,39.71601,-104.22321,Guardrail Face,1.0,Snow,29.0,M
+Interstate Highway,070A,312.00,10/28/2023,15:39:00,39.73015,-104.2958,Other Non-Collision,1.0,Snow,51.0,M
+Interstate Highway,070A,260.764,10/28/2023,17:17:00,39.72259,-105.1831,Sideswipe Same Direction,2.0,Snow,50.0,F
+Interstate Highway,070A,293.000,10/28/2023,18:00:00,39.73828,-104.63704,Rear-End,4.0,Snow,,U
+Interstate Highway,070A,227.579,10/29/2023,13:00:00,39.7106,-105.69731,Concrete Highway Barrier,1.0,Cloudy,43.0,M
+Interstate Highway,070A,242.232,10/29/2023,13:15:00,39.74455,-105.47617,Rear-End,3.0,Snow,77.0,M
+Interstate Highway,070A,253.000,10/30/2023,08:01:00,39.71247,-105.30418,Rear-End,2.0,Cloudy,26.0,M
+Interstate Highway,070A,77.000,10/30/2023,21:09:00,39.73823,-104.63747,Rear-End,2.0,Clear,,
+Interstate Highway,070A,293.283,10/30/2023,21:14:00,39.73819,-104.63872,Parked Motor Vehicle,2.0,Clear,27.0,F
+Interstate Highway,070A,261.311,10/31/2023,00:15:00,39.72787,-105.17503,Guardrail Face,1.0,Clear,18.0,M
+Interstate Highway,070A,295.00,11/1/2023,01:00:00,39.7402,-104.61031,Wild Animal,1.0,Clear,38.0,M
+Interstate Highway,070A,246.645,11/2/2023,15:20:00,39.72098,-105.40888,Vehicle Debris or Cargo,4.0,Cloudy,45.0,M
+Interstate Highway,070A,287.939,11/2/2023,19:47:00,39.742383,-104.736195,Rear-End,2.0,Clear,,
+Interstate Highway,070A,305.000,11/3/2023,13:45:00,39.73809,-104.42157,Vehicle Debris or Cargo,2.0,Clear,,U
+Interstate Highway,070A,243.166,11/3/2023,16:38:00,39.74518,-105.45784,Guardrail Face,2.0,Clear,61.0,M
+Interstate Highway,070A,304.000,11/3/2023,16:40:00,39.73809,-104.44071,Rear-End,2.0,Clear,45.0,F
+Interstate Highway,070A,289.981,11/4/2023,16:10:00,39.74028,-104.69976,Rear-End,2.0,Clear,51.0,M
+Interstate Highway,070A,239.903,11/5/2023,05:40:00,39.74104,-105.51526,Concrete Highway Barrier,1.0,,40.0,M
+Interstate Highway,070A,314.739,11/5/2023,14:11:00,39.720633,-104.242875,Overturning/Rollover,1.0,Clear,47.0,M
+Interstate Highway,070A,291.400,11/5/2023,21:00:00,39.7401,-104.67357,Cable Rail,1.0,Clear,32.0,F
+Interstate Highway,070A,288.274,11/7/2023,08:40:00,39.74002,-104.73132,Overturning/Rollover,1.0,Clear,20.0,F
+Interstate Highway,070A,247.509,11/8/2023,14:39:00,39.71535,-105.39337,Sideswipe Same Direction,2.0,Snow,72.0,M
+Interstate Highway,070A,261.640,11/9/2023,16:43:00,39.73062,-105.17233,Rear-End,2.0,Clear,64.0,F
+Interstate Highway,070A,260.874,11/10/2023,15:27:00,39.72362,-105.1815,Rear-End,2.0,Clear,28.0,F
+Interstate Highway,070A,260.493,11/10/2023,15:36:00,39.72015,-105.18715,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,295.01,11/10/2023,18:45:00,39.73992,-104.60705,Wild Animal,1.0,Clear,47.0,M
+Interstate Highway,070A,288.219,11/12/2023,17:25:00,39.7399,-104.73061,Rear-End,2.0,Clear,70.0,M
+Interstate Highway,070A,259.885,11/12/2023,21:50:00,39.71301,-105.19277,Concrete Highway Barrier,1.0,Clear,29.0,M
+Interstate Highway,070A,291.000,11/13/2023,16:07:00,39.74013,-104.6824,Parked Motor Vehicle,2.0,Clear,70.0,M
+Interstate Highway,070A,299.868,11/14/2023,16:00:00,39.73873,-104.51715,Vehicle Debris or Cargo,1.0,Clear,,
+Interstate Highway,070A,260.344,11/15/2023,15:28:00,39.71877,-105.18932,Rear-End,2.0,Clear,24.0,F
+Interstate Highway,070A,307.430,11/16/2023,00:15:00,39.73308,-104.37689,Other Non-Fixed Object Describe in Narrative),1.0,Clear,35.0,F
+Interstate Highway,070A,244.041,11/17/2023,07:05:00,39.7436,-105.44267,Guardrail Face,1.0,Clear,32.0,M
+Interstate Highway,070A,289.164,11/17/2023,18:02:00,39.73961,-104.71646,Sideswipe Same Direction,2.0,Clear,62.0,M
+Interstate Highway,070A,293.100,11/19/2023,13:05:00,39.73841,-104.64347,Overturning/Rollover,1.0,Clear,19.0,M
+Interstate Highway,070A,154.059,11/20/2023,07:00:00,39.71092,-106.70886,Guardrail Face,1.0,Cloudy,31.0,M
+Interstate Highway,070A,287.219,11/20/2023,10:00:00,39.74967,-104.74789,Cable Rail,1.0,Rain,43.0,M
+Interstate Highway,070A,229.851,11/20/2023,11:35:00,39.74107,-105.68458,Rear-End,3.0,Snow,49.0,F
+Interstate Highway,070A,262.571,11/20/2023,18:28:00,39.74049,-105.16021,Sideswipe Same Direction,2.0,Clear,,U
+Interstate Highway,070A,239.837,11/21/2023,07:00:00,39.74095,-105.51655,Sideswipe Same Direction,2.0,Clear,32.0,M
+Interstate Highway,070A,289.164,11/21/2023,15:10:00,39.73958,-104.71614,Broadside,2.0,Clear,26.0,F
+Interstate Highway,070A,304.236,11/21/2023,22:30:00,39.73839,-104.43779,Rear-End,2.0,Clear,,
+Interstate Highway,070A,243.889,11/23/2023,04:45:00,39.74402,-105.44529,Embankment,1.0,Clear,52.0,M
+Interstate Highway,070A,248.27,11/23/2023,19:00:00,39.71462,-105.37919,Tree,1.0,Snow,40.0,M
+Interstate Highway,070A,253.273,11/23/2023,19:15:00,39.71148,-105.29919,Other Non-Collision,4.0,Snow,20.0,F
+Interstate Highway,070A,295.900,11/23/2023,22:20:00,39.73966,-104.59228,Overturning/Rollover,1.0,Snow,25.0,F
+Interstate Highway,070A,294.000,11/23/2023,22:58:00,39.74026,-104.62703,Overturning/Rollover,1.0,Snow,29.0,M
+Interstate Highway,070A,297.000,11/26/2023,15:50:00,39.73926,-104.5562,Rear-End,2.0,Clear,25.0,M
+Interstate Highway,070A,261.650,11/27/2023,10:31:00,39.73071,-105.1722,Sideswipe Same Direction,2.0,Clear,40.0,M
+Interstate Highway,070A,252.612,11/28/2023,15:20:00,39.71415,-105.31101,Sideswipe Same Direction,2.0,Clear,32.0,M
+Interstate Highway,070A,305.000,11/28/2023,17:52:00,39.73805,-104.41227,Sideswipe Same Direction,3.0,Clear,,
+Interstate Highway,070A,246.697,11/28/2023,21:02:00,39.72066,-105.4079,Wild Animal,1.0,Clear,50.0,M
+Interstate Highway,070A,243.000,11/29/2023,20:29:00,39.746291,-105.460542,Guardrail Face,1.0,Clear,18.0,M
+Interstate Highway,070A,252.082,12/1/2023,05:35:00,39.70987,-105.31828,Overturning/Rollover,1.0,Clear,39.0,F
+Interstate Highway,070A,298.73,12/1/2023,16:00:00,39.73898,-104.53849,Sideswipe Same Direction,2.0,Clear,39.0,M
+Interstate Highway,070A,228.438,12/1/2023,20:20:00,39.72344,-105.6954,Wild Animal,1.0,Clear,17.0,F
+Interstate Highway,070A,299.328,12/2/2023,11:00:00,39.73855,-104.52697,Guardrail End,1.0,Clear,21.0,M
+Interstate Highway,070A,252.862,12/2/2023,13:50:00,39.71312,-105.30662,Rear-End,3.0,Cloudy,,
+Interstate Highway,070A,245.906,12/3/2023,09:41:00,39.72666,-105.4219,Concrete Highway Barrier,1.0,Snow,52.0,F
+Interstate Highway,070A,291.916,12/4/2023,03:00:00,39.74002,-104.66607,Sign,1.0,Clear,18.0,M
+Interstate Highway,070A,153.952,12/4/2023,06:07:00,39.71107,-106.7102,Guardrail Face,1.0,Clear,56.0,M
+Interstate Highway,070A,261.050,12/5/2023,15:45:00,39.7255,-105.17995,Rear-End,2.0,Clear,29.0,M
+Interstate Highway,070A,262.242,12/6/2023,08:05:00,39.73696,-105.16316,Rear-End,2.0,Clear,30.0,M
+Frontage Road,070A,289.164,12/6/2023,08:40:00,39.73796,-104.71584,Broadside,2.0,Clear,18.0,M
+Frontage Road,070A,291.222,12/6/2023,23:03:00,39.73962,-104.67832,Broadside,2.0,Clear,38.0,F
+Interstate Highway,070A,304.000,12/7/2023,17:00:00,39.7381,-104.43743,Rear-End,2.0,Clear,58.0,M
+Interstate Highway,070A,259.83,12/8/2023,11:23:00,39.71283,-105.19399,Overhead Structure (Bridge),2.0,Clear,60.0,M
+Interstate Highway,070A,245.629,12/8/2023,18:10:00,39.72977,-105.42524,Parked Motor Vehicle,2.0,Snow,75.0,M
+Interstate Highway,070A,261.640,12/9/2023,07:20:00,39.73076,-105.17205,Sideswipe Same Direction,2.0,Cloudy,17.0,F
+Interstate Highway,070A,240.250,12/9/2023,12:26:00,39.741268,-105.509328,Concrete Highway Barrier,1.0,Rain,29.0,M
+Interstate Highway,070A,262.500,12/9/2023,13:35:00,39.74091,-105.15895,Rear-End,2.0,Clear,,U
+Interstate Highway,070A,253.00,12/9/2023,16:11:00,39.71326,-105.30704,Rear-End,3.0,Clear,36.0,M
+Interstate Highway,070A,253.612,12/9/2023,16:30:00,39.70971,-105.29323,Rear-End,2.0,Clear,23.0,M
+Interstate Highway,070A,244.908,12/10/2023,07:21:00,39.739,-105.4318,Rear-End,2.0,Cloudy,20.0,M
+Interstate Highway,070A,261.030,12/11/2023,08:40:00,39.72526,-105.189,Overtaking Turn,2.0,Clear,62.0,M
+Interstate Highway,070A,317.000,12/11/2023,22:24:00,39.70928,-104.20418,Other Non-Fixed Object Describe in Narrative),1.0,Clear,21.0,M
+Interstate Highway,070A,289.000,12/12/2023,15:38:00,39.7403,-104.7132,Sideswipe Same Direction,2.0,Clear,,U
+Interstate Highway,070A,289.000,12/12/2023,17:09:00,39.74012,-104.72047,Rear-End,2.0,Clear,52.0,M
+Interstate Highway,070A,241.563,12/15/2023,17:30:00,39.74465,-105.48804,Rear-End,3.0,Clear,24.0,M
+Interstate Highway,070A,260.636,12/15/2023,18:44:00,39.72155,-105.18516,Cable Rail,1.0,Clear,,
+Interstate Highway,070A,260.636,12/15/2023,18:44:00,39.72168,-105.18528,Wild Animal,1.0,Clear,43.0,M
+Interstate Highway,070A,245.146,12/16/2023,07:12:00,39.73585,-105.42973,Rear-End,4.0,Clear,27.0,M
+Interstate Highway,070A,244.623,12/16/2023,21:25:00,39.74313,-105.43312,Concrete Highway Barrier,1.0,Clear,19.0,M
+Interstate Highway,070A,309.300,12/17/2023,11:00:00,39.73471,-104.33888,Rear-End,2.0,Clear,23.0,F
+Interstate Highway,070A,251.97,12/19/2023,16:15:00,39.70871,-105.31959,Concrete Highway Barrier,1.0,Clear,61.0,M
+Interstate Highway,070A,260.755,12/19/2023,16:23:00,39.72318,-105.18237,Rear-End,3.0,Clear,29.0,M
+Interstate Highway,070A,240.506,12/20/2023,04:30:00,39.74033,-105.50484,Concrete Highway Barrier,1.0,Clear,43.0,M
+Interstate Highway,070A,243.418,12/20/2023,16:52:00,39.74332,-105.45383,Rear-End,2.0,Clear,20.0,M
+Interstate Highway,070A,304.476,12/21/2023,21:48:00,39.7384,-104.43032,Embankment,1.0,Clear,27.0,M
+Interstate Highway,070A,259.997,12/22/2023,04:45:00,39.71509,-105.19188,Cable Rail,1.0,Clear,20.0,M
+Interstate Highway,070A,245.527,12/22/2023,07:40:00,39.73092,-105.4264,Rear-End,5.0,Clear,17.0,M
+Interstate Highway,070A,244.699,12/22/2023,10:10:00,39.74196,-105.43296,Sideswipe Same Direction,2.0,Clear,50.0,M
+Interstate Highway,070A,241.514,12/22/2023,15:45:00,39.74459,-105.48883,Rear-End,2.0,Clear,64.0,M
+Interstate Highway,070A,242.783,12/23/2023,14:19:00,39.74643,-105.46505,Concrete Highway Barrier,1.0,Clear,34.0,F
+Interstate Highway,070A,242.786,12/23/2023,14:19:00,39.74643,-105.46505,Concrete Highway Barrier,1.0,Clear,34.0,F
+Interstate Highway,070A,244.463,12/24/2023,01:50:00,39.74486,-105.43541,Ditch,1.0,Freezing Rain or Freezing Drizzle,50.0,F
+Interstate Highway,070A,244.462,12/24/2023,01:50:00,39.74486,-105.43541,Ditch,1.0,Freezing Rain or Freezing Drizzle,50.0,F
+Interstate Highway,070A,242.995,12/24/2023,12:00:00,39.74633,-105.46058,Guardrail Face,2.0,Snow,32.0,F
+Interstate Highway,070A,240.334,12/25/2023,13:54:00,39.74077,-105.50793,Rear-End,2.0,Clear,57.0,M
+Interstate Highway,070A,288.800,12/26/2023,07:20:00,39.73977,-104.72517,Overturning/Rollover,1.0,Snow,37.0,M
+Interstate Highway,070A,288.614,12/26/2023,07:20:00,39.73977,-104.72517,Overturning/Rollover,1.0,Snow,37.0,M
+Interstate Highway,070A,153.779,12/26/2023,09:24:00,39.71043,-106.71366,Guardrail Face,1.0,Snow,62.0,F
+Interstate Highway,070A,244.823,12/26/2023,15:15:00,39.74014,-105.4326,Sideswipe Same Direction,2.0,Clear,36.0,M
+Interstate Highway,070A,314.000,12/28/2023,10:30:00,39.72399,-104.25587,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,260.170,12/28/2023,10:45:00,39.716449,-105.190773,Sideswipe Same Direction,2.0,Clear,29.0,M
+Interstate Highway,070A,261.000,12/28/2023,12:30:00,39.72421,-105.18149,Guardrail Face,1.0,Clear,23.0,M
+Interstate Highway,070A,153.792,12/29/2023,00:11:00,39.71078,-106.71347,Light Pole/Utility Pole,1.0,Clear,43.0,M
+Interstate Highway,070A,288.000,12/29/2023,07:30:00,39.74019,-104.7312,Rear-End,2.0,Clear,30.0,M
+Interstate Highway,070A,290.250,12/29/2023,18:00:00,39.74038,-104.69482,Sign,1.0,Clear,46.0,M
+Interstate Highway,070A,261.630,12/29/2023,18:24:00,39.73055,-105.17198,Sideswipe Same Direction,2.0,Clear,52.0,M
+Interstate Highway,070A,297.432,12/30/2023,06:51:00,39.73935,-104.56251,Concrete Highway Barrier,1.0,Clear,63.0,M
+Interstate Highway,070A,230.008,12/30/2023,14:11:00,39.74293,-105.68292,Rear-End,2.0,Clear,21.0,M
+Interstate Highway,070A,244.473,12/31/2023,07:35:00,39.74469,-105.43532,Concrete Highway Barrier,1.0,Cloudy,,
+Interstate Highway,070A,244.343,12/31/2023,20:02:00,39.7456,-105.43758,Concrete Highway Barrier,2.0,Clear,46.0,M

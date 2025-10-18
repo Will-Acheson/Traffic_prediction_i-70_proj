@@ -1,0 +1,544 @@
+System Code,Rd_Number,Rd_Section,Crash Date,Crash Time,Latitude,Longitude,Crash Type,Total Vehicles,Weather Condition,TU-1 Age,TU-1 Sex 
+Interstate Highway,070A,228.150,1/1/2024,10:37:00,39.71962,-105.69597,Rear-End,4.0,Clear,37.0,M
+Interstate Highway,070A,261.030,1/1/2024,12:31:00,39.72551,-105.18292,Guardrail Face,1.0,Clear,40.0,F
+Interstate Highway,070A,306.000,1/2/2024,07:50:00,39.73544,-104.3926,Sideswipe Same Direction,2.0,Clear,34.0,F
+Interstate Highway,070A,262.005,1/3/2024,15:00:00,39.73493,-105.16583,Guardrail Face,2.0,Clear,43.0,F
+Interstate Highway,070A,260.000,1/3/2024,20:26:00,39.72049,-105.18703,Rear-End,2.0,Clear,32.0,M
+Interstate Highway,070A,261.235,1/4/2024,06:15:00,39.72707,-105.17627,Sideswipe Same Direction,3.0,Cloudy,21.0,M
+Interstate Highway,070A,241.000,1/5/2024,16:43:00,39.74329,-105.49107,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,249.000,1/5/2024,21:00:00,39.71328,-105.36618,Sideswipe Same Direction,2.0,Clear,46.0,M
+Interstate Highway,070A,244.432,1/6/2024,12:31:00,39.74484,-105.4361,Barricade,1.0,Clear,23.0,M
+Interstate Highway,070A,260.852,1/7/2024,17:28:00,39.72376,-105.18157,Rear-End,2.0,Clear,28.0,F
+Interstate Highway,070A,289.162,1/7/2024,17:54:00,39.73932,-104.71609,Broadside,2.0,Clear,,
+Interstate Highway,070A,307.100,1/8/2024,07:05:00,39.73355,-104.37994,Sideswipe Same Direction,2.0,Blowing Snow,26.0,M
+Interstate Highway,070A,291.000,1/8/2024,19:15:00,39.73998,-104.67453,Sideswipe Same Direction,2.0,Clear,,U
+Interstate Highway,070A,252.900,1/9/2024,02:47:00,39.71405,-105.3123,Overturning/Rollover,1.0,Blowing Snow,24.0,M
+Interstate Highway,070A,253.501,1/9/2024,13:10:00,39.71021,-105.2952,Rear-End,5.0,Wind,39.0,F
+Interstate Highway,070A,246.224,1/10/2024,09:00:00,39.72348,-105.41644,Concrete Highway Barrier,1.0,Clear,25.0,F
+Interstate Highway,070A,244.313,1/10/2024,09:23:00,39.74563,-105.43819,Sideswipe Same Direction,2.0,Clear,48.0,F
+Interstate Highway,070A,245.070,1/10/2024,12:25:00,39.73684,-105.43047,Crash Cushion/Traffic Barrel,1.0,Clear,54.0,M
+Interstate Highway,070A,228.947,1/13/2024,10:05:00,39.72989,-105.69267,Rear-End,2.0,Snow,22.0,M
+Interstate Highway,070A,244.324,1/14/2024,08:10:00,39.7456,-105.43799,Rear-End,2.0,Snow,32.0,F
+Interstate Highway,070A,244.091,1/14/2024,09:45:00,39.74439,-105.44226,Large Rocks or Boulder,1.0,Snow,31.0,M
+Interstate Highway,070A,293.327,1/15/2024,04:45:00,39.73859,-104.64285,Guardrail Face,2.0,Blowing Snow,33.0,M
+Interstate Highway,070A,302.378,1/15/2024,11:40:00,39.7386,-104.47025,Guardrail End,1.0,Snow,34.0,M
+Interstate Highway,070A,293.788,1/15/2024,11:50:00,39.73941,-104.63101,Parked Motor Vehicle,2.0,Snow,,U
+Interstate Highway,070A,315.389,1/15/2024,14:30:00,39.71806,-104.23072,Guardrail Face,1.0,Snow,56.0,F
+Interstate Highway,070A,305.005,1/15/2024,14:35:00,39.7385,-104.42141,Embankment,1.0,Clear,49.0,M
+Interstate Highway,070A,249.406,1/15/2024,19:30:00,39.71229,-105.36061,Overturning/Rollover,1.0,Clear,24.0,M
+Interstate Highway,070A,293.850,1/15/2024,23:49:00,39.73958,-104.62992,Rear-End,2.0,Clear,21.0,M
+Interstate Highway,070A,242.664,1/16/2024,07:05:00,39.74521,-105.46706,Sideswipe Same Direction,2.0,Clear,23.0,F
+Interstate Highway,070A,272.546,1/16/2024,07:50:00,39.71605,-105.39168,Broadside,2.0,Wind,42.0,M
+Interstate Highway,070A,245.756,1/19/2024,16:21:00,39.72849,-105.42348,Rear-End,2.0,Clear,21.0,M
+Frontage Road,070A,242.980,1/20/2024,14:51:00,39.74686,-105.46078,Overturning/Rollover,1.0,Clear,25.0,F
+Interstate Highway,070A,261.000,1/21/2024,15:46:00,39.72493,-105.17974,Rear-End,2.0,Clear,29.0,M
+Interstate Highway,070A,249.079,1/21/2024,21:00:00,39.71305,-105.36727,Sideswipe Same Direction,2.0,Clear,23.0,M
+Frontage Road,070A,288.994,1/26/2024,00:00:00,39.73789,-104.71816,Embankment,1.0,Snow,,
+Interstate Highway,070A,308.248,1/26/2024,06:50:00,39.73343,-104.36193,Fence,1.0,Cloudy,54.0,M
+Interstate Highway,070A,314.000,1/26/2024,07:20:00,39.7155,-104.22045,Guardrail Face,1.0,Cloudy,42.0,M
+Interstate Highway,070A,297.841,1/26/2024,18:30:00,39.73923,-104.55513,Vehicle Debris or Cargo,2.0,Cloudy,30.0,M
+Interstate Highway,070A,246.024,1/27/2024,05:58:00,39.72554,-105.4201,Sideswipe Same Direction,3.0,Clear,21.0,M
+Interstate Highway,070A,249.993,1/27/2024,16:23:00,39.71018,-105.35016,Sideswipe Same Direction,2.0,Clear,,U
+Interstate Highway,070A,237.998,1/28/2024,21:08:00,39.74962,-105.54895,Sideswipe Same Direction,2.0,Clear,50.0,M
+Interstate Highway,070A,253.995,1/29/2024,21:19:00,39.70893,-105.28623,Barricade,1.0,Clear,41.0,F
+Interstate Highway,070A,261.791,1/30/2024,17:07:00,39.73271,-105.16817,Rear-End,2.0,Clear,21.0,M
+Interstate Highway,070A,242.739,1/31/2024,00:09:00,39.74607,-105.46578,Guardrail Face,1.0,,22.0,M
+Interstate Highway,070A,261.000,1/31/2024,10:00:00,39.71883,-105.18858,Sideswipe Same Direction,2.0,Clear,,U
+Interstate Highway,070A,260.29,1/31/2024,10:00:00,39.71883,-105.18858,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,288.278,2/1/2024,20:15:00,39.74061,-104.73158,Tree,1.0,Clear,28.0,F
+Interstate Highway,070A,239.820,2/3/2024,02:32:00,39.74083,-105.51685,Concrete Highway Barrier,1.0,Snow,33.0,M
+Interstate Highway,070A,298.359,2/3/2024,04:10:00,39.73908,-104.5455,Other Non-Fixed Object Describe in Narrative),1.0,Rain,23.0,M
+Interstate Highway,070A,298.359,2/3/2024,04:14:00,39.73908,-104.5455,Rear-End,2.0,Rain,23.0,M
+Interstate Highway,070A,298.359,2/3/2024,04:17:00,39.73908,-104.5455,Rear-End,3.0,Rain,23.0,M
+Interstate Highway,070A,305.324,2/3/2024,08:40:00,39.73779,-104.41603,Tree,1.0,Snow,37.0,M
+Interstate Highway,070A,297.784,2/3/2024,08:50:00,39.73918,-104.55615,Overturning/Rollover,1.0,Snow,51.0,M
+Interstate Highway,070A,288.294,2/3/2024,08:57:00,39.74024,-104.73124,Delineator/Milepost,1.0,Snow,33.0,M
+Interstate Highway,070A,293.000,2/3/2024,09:00:00,39.73844,-104.63434,Guardrail Face,1.0,Snow,22.0,F
+Interstate Highway,070A,293.229,2/3/2024,09:28:00,39.73818,-104.64082,Guardrail Face,1.0,Snow,28.0,M
+Interstate Highway,070A,291.222,2/3/2024,09:30:00,39.74019,-104.67833,Cable Rail,2.0,Snow,20.0,F
+Interstate Highway,070A,304.269,2/3/2024,09:40:00,39.73808,-104.43671,Sideswipe Same Direction,2.0,Snow,36.0,M
+Interstate Highway,070A,316.053,2/3/2024,10:11:00,39.71553,-104.21956,Delineator/Milepost,1.0,Snow,31.0,M
+Interstate Highway,070A,290.392,2/3/2024,10:40:00,39.74025,-104.69178,Cable Rail,1.0,Snow,28.0,M
+Interstate Highway,070A,290.585,2/3/2024,11:15:00,39.74024,-104.68823,Cable Rail,1.0,Snow,26.0,M
+Interstate Highway,070A,290.280,2/3/2024,11:32:00,39.74022,-104.69414,Rear-End,3.0,Snow,45.0,M
+Interstate Highway,070A,253.963,2/3/2024,12:07:00,39.70905,-105.2868,Rear-End,2.0,Snow,31.0,F
+Interstate Highway,070A,253.964,2/3/2024,12:30:00,39.70905,-105.2868,Sideswipe Same Direction,2.0,Snow,29.0,M
+Interstate Highway,070A,291.073,2/3/2024,12:32:00,39.74021,-104.68101,Cable Rail,1.0,Snow,24.0,M
+Interstate Highway,070A,288.624,2/3/2024,13:35:00,39.74009,-104.72503,Guardrail Face,1.0,Snow,,U
+Interstate Highway,070A,249.000,2/3/2024,14:00:00,39.71281,-105.35579,Overturning/Rollover,1.0,Snow,48.0,F
+Interstate Highway,070A,253.028,2/4/2024,11:26:00,39.71242,-105.30371,Rear-End,3.0,Clear,20.0,M
+Interstate Highway,070A,261.000,2/5/2024,07:08:00,39.73269,-105.1686,Sideswipe Same Direction,2.0,Clear,23.0,F
+Interstate Highway,070A,239.674,2/5/2024,16:30:00,39.74047,-105.52013,Guardrail Face,1.0,Clear,21.0,M
+Interstate Highway,070A,229.729,2/5/2024,17:12:00,39.73951,-105.68556,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,258.720,2/5/2024,18:28:00,39.73117,-105.16942,Approach Turn,2.0,Clear,20.0,F
+Interstate Highway,070A,288.000,2/6/2024,17:09:00,39.74012,-104.71983,Rear-End,2.0,Clear,46.0,F
+Frontage Road,070A,311.431,2/7/2024,15:27:00,39.73981,-104.73802,Light Pole/Utility Pole,1.0,Clear,50.0,M
+Interstate Highway,070A,260.870,2/8/2024,17:43:00,39.72401,-105.181,Sideswipe Same Direction,2.0,Clear,20.0,M
+Interstate Highway,070A,242.746,2/8/2024,22:03:00,39.74618,-105.4658,Guardrail Face,1.0,Clear,33.0,M
+Interstate Highway,070A,290.383,2/9/2024,19:26:00,39.74045,-104.69198,Sideswipe Opposite Direction,2.0,Cloudy,24.0,M
+Interstate Highway,070A,291.000,2/9/2024,19:30:00,39.74035,-104.68681,Other Non-Fixed Object Describe in Narrative),1.0,Clear,65.0,M
+Interstate Highway,070A,308.114,2/10/2024,04:10:00,39.73336,-104.36436,Wild Animal,1.0,Clear,41.0,M
+Interstate Highway,070A,261.798,2/10/2024,06:50:00,39.73275,-105.16804,Cable Rail,1.0,Snow,17.0,F
+Interstate Highway,070A,308.132,2/10/2024,07:00:00,39.73336,-104.36406,Guardrail Face,1.0,Snow,65.0,M
+Interstate Highway,070A,305.000,2/10/2024,07:15:00,39.73847,-104.4222,Guardrail Face,2.0,Snow,35.0,M
+Interstate Highway,070A,304.955,2/10/2024,07:15:00,39.73848,-104.4222,Guardrail Face,2.0,Snow,35.0,M
+Interstate Highway,070A,242.684,2/10/2024,07:59:00,39.74541,-105.46668,Sideswipe Same Direction,2.0,Snow,19.0,F
+Interstate Highway,070A,248.881,2/10/2024,09:36:00,39.71431,-105.36946,Embankment,1.0,Cloudy,19.0,M
+Interstate Highway,070A,314.41,2/11/2024,07:20:00,39.72212,-104.24857,Overturning/Rollover,1.0,Clear,43.0,F
+Interstate Highway,070A,245.845,2/11/2024,12:15:00,39.72748,-105.4221,Rear-End,3.0,Cloudy,29.0,M
+Interstate Highway,070A,246.248,2/12/2024,09:52:00,39.72332,-105.4159,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,288.100,2/13/2024,14:10:00,39.74218,-104.7352,Sideswipe Same Direction,2.0,Clear,26.0,M
+Interstate Highway,070A,262.000,2/13/2024,18:04:00,39.73508,-105.1656,Sideswipe Same Direction,2.0,Clear,26.0,F
+Interstate Highway,070A,261.871,2/14/2024,16:34:00,39.73345,-105.167128,Rear-End,3.0,Clear,49.0,M
+Interstate Highway,070A,260.829,2/14/2024,17:13:00,39.72323,-105.1822,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,270.000,2/15/2024,06:50:00,39.74027,-105.06261,Rear-End,2.0,,,U
+Interstate Highway,070A,296.315,2/16/2024,05:30:00,39.73992,-104.583,Guardrail Face,2.0,Snow,59.0,M
+Interstate Highway,070A,288.300,2/16/2024,06:00:00,39.74024,-104.73106,Concrete Highway Barrier,2.0,Snow,28.0,M
+Interstate Highway,070A,261.364,2/16/2024,18:00:00,39.72838,-105.17456,Cable Rail,1.0,Freezing Rain or Freezing Drizzle,17.0,F
+Interstate Highway,070A,305.000,2/17/2024,07:05:00,39.73839,-104.4215,Rear-End,2.0,Clear,70.0,F
+Interstate Highway,070A,239.855,2/17/2024,10:11:00,39.74087,-105.51618,Sideswipe Same Direction,2.0,Clear,38.0,M
+Interstate Highway,070A,244.076,2/17/2024,10:13:00,39.74424,-105.44249,Parked Motor Vehicle,2.0,Clear,18.0,M
+Interstate Highway,070A,230.643,2/17/2024,19:20:00,39.74755,-105.67291,Concrete Highway Barrier,1.0,Clear,22.0,M
+Interstate Highway,070A,272.552,2/19/2024,06:30:00,39.71602,-105.39142,Head-On,2.0,Clear,36.0,M
+Interstate Highway,070A,293.236,2/19/2024,16:00:00,39.73787,-104.6407,Other Non-Fixed Object Describe in Narrative),1.0,Clear,24.0,M
+Interstate Highway,070A,243.567,2/19/2024,22:55:00,39.74353,-105.4511,Concrete Highway Barrier,1.0,Clear,55.0,M
+Interstate Highway,070A,154.261,2/21/2024,05:50:00,39.7112,-106.70584,Wild Animal,1.0,Clear,62.0,F
+Interstate Highway,070A,241.867,2/21/2024,14:22:00,39.74382,-105.48329,Rear-End,2.0,Clear,34.0,M
+Interstate Highway,070A,260.000,2/22/2024,01:53:00,39.72087,-105.18634,Rear-End,2.0,Clear,41.0,M
+Interstate Highway,070A,244.661,2/22/2024,10:33:00,39.74253,-105.43326,Concrete Highway Barrier,1.0,Clear,55.0,M
+Interstate Highway,070A,294.80,2/23/2024,08:12:00,39.74023,-104.60994,Large Rocks or Boulder,1.0,Clear,49.0,F
+Interstate Highway,070A,246.249,2/23/2024,08:15:00,39.72342,-105.4158,Rear-End,2.0,Clear,39.0,M
+Interstate Highway,070A,253.439,2/23/2024,14:45:00,39.71072,-105.2962,Guardrail End,1.0,Clear,59.0,M
+Interstate Highway,070A,244.835,2/24/2024,07:30:00,39.74002,-105.43235,Rear-End,2.0,Clear,70.0,M
+Interstate Highway,070A,311.000,2/24/2024,10:40:00,39.73244,-104.30896,Parked Motor Vehicle,2.0,Clear,43.0,F
+Interstate Highway,070A,244.815,2/24/2024,10:41:00,39.71597,-105.38734,Other Non-Fixed Object Describe in Narrative),1.0,Clear,27.0,M
+Interstate Highway,070A,260.733,2/24/2024,15:35:00,39.72232,-105.18357,Rear-End,2.0,Clear,,
+Interstate Highway,070A,260.732,2/24/2024,15:35:00,39.72232,-105.18357,Rear-End,2.0,Clear,26.0,M
+Interstate Highway,070A,230.407,2/27/2024,09:08:00,39.74609,-105.67683,Cable Rail,1.0,Cloudy,27.0,M
+Interstate Highway,070A,230.440,2/27/2024,09:15:00,39.74634,-105.67632,Rear-End,4.0,Snow,36.0,M
+Interstate Highway,070A,292.907,2/27/2024,09:30:00,39.74023,-104.66451,Overturning/Rollover,1.0,Blowing Snow,20.0,M
+Interstate Highway,070A,288.518,2/27/2024,10:15:00,39.74011,-104.72648,Guardrail Face,1.0,Blowing Snow,18.0,M
+Interstate Highway,070A,316.000,2/27/2024,11:20:00,39.71744,-104.22814,Sideswipe Same Direction,2.0,Blowing Snow,20.0,M
+Interstate Highway,070A,228.000,3/1/2024,17:00:00,39.71671,-105.69666,Rear-End,2.0,Clear,,
+Interstate Highway,070A,291.036,3/2/2024,04:02:00,39.74001,-104.68173,Embankment,1.0,Clear,30.0,M
+Interstate Highway,070A,261.678,3/2/2024,13:23:00,39.73151,-105.1696,Overturning/Rollover,1.0,Clear,43.0,F
+Interstate Highway,070A,241.337,3/2/2024,15:08:00,39.7435,-105.49116,Rear-End,3.0,Clear,21.0,M
+Interstate Highway,070A,241.18,3/2/2024,15:11:00,39.74254,-105.49316,Sideswipe Same Direction,2.0,Clear,22.0,M
+Interstate Highway,070A,289.164,3/3/2024,15:25:00,39.74087,-104.716,Approach Turn,2.0,Clear,54.0,M
+Interstate Highway,070A,261.83,3/4/2024,08:00:00,39.73331,-105.16802,Rear-End,4.0,Clear,23.0,F
+Interstate Highway,070A,315.691,3/6/2024,17:19:00,39.71563,-104.22551,Rear-End,2.0,Clear,23.0,M
+Interstate Highway,070A,260.397,3/6/2024,21:05:00,39.71935,-105.18862,Sideswipe Same Direction,2.0,Clear,80.0,F
+Interstate Highway,070A,262.000,3/7/2024,10:26:00,39.73485,-105.16594,Rear-End,2.0,Clear,19.0,F
+Frontage Road,070A,291.222,3/7/2024,15:35:00,39.73963,-104.67832,Broadside,2.0,Clear,60.0,M
+Interstate Highway,070A,247.303,3/7/2024,19:27:00,39.71616,-105.397,Sideswipe Same Direction,2.0,Snow,25.0,M
+Interstate Highway,070A,315.406,3/8/2024,05:23:00,39.71765,-104.23057,Guardrail Face,1.0,Snow,75.0,M
+Interstate Highway,070A,259.76,3/8/2024,17:46:00,39.71209,-105.19449,Rear-End,2.0,Cloudy,33.0,M
+Interstate Highway,070A,289.327,3/9/2024,11:53:00,39.74038,-104.71305,Sideswipe Same Direction,2.0,Clear,54.0,M
+Interstate Highway,070A,241.164,3/10/2024,10:33:00,39.74244,-105.49337,Rear-End,2.0,Clear,17.0,M
+Interstate Highway,070A,241.163,3/10/2024,10:33:00,39.74244,-105.49337,Rear-End,2.0,Clear,17.0,M
+Interstate Highway,070A,229.892,3/11/2024,02:59:00,39.74164,-105.68432,Guardrail End,1.0,Clear,42.0,M
+Interstate Highway,070A,248.645,3/11/2024,12:45:00,39.71603,-105.37302,Rear-End,2.0,Cloudy,23.0,M
+Interstate Highway,070A,246.093,3/11/2024,13:16:00,39.72474,-105.4189,Barricade,1.0,Cloudy,41.0,F
+Interstate Highway,070A,302.829,3/12/2024,08:40:00,39.73833,-104.46203,Vehicle Debris or Cargo,2.0,Clear,29.0,M
+Interstate Highway,070A,252.587,3/12/2024,16:49:00,39.71418,-105.31154,Sideswipe Same Direction,3.0,Cloudy,20.0,M
+Interstate Highway,070A,247.536,3/13/2024,18:00:00,39.71538,-105.39288,Guardrail Face,1.0,Snow,33.0,M
+Interstate Highway,070A,246.905,3/13/2024,20:30:00,39.71989,-105.40453,Sideswipe Same Direction,2.0,Snow,40.0,M
+Interstate Highway,070A,250.146,3/14/2024,11:38:00,39.70873,-105.34775,Sideswipe Same Direction,2.0,Snow,24.0,M
+Interstate Highway,070A,290.441,3/14/2024,20:00:00,39.74016,-104.69074,Cable Rail,1.0,Snow,27.0,F
+Interstate Highway,070A,239.815,3/16/2024,00:25:00,39.74072,-105.51693,Other Non-Fixed Object Describe in Narrative),1.0,Clear,53.0,M
+Interstate Highway,070A,254.138,3/16/2024,09:10:00,39.70876,-105.28366,Other Non-Fixed Object Describe in Narrative),1.0,Clear,70.0,M
+Interstate Highway,070A,262.463,3/16/2024,13:48:00,39.73882,-105.16036,Rear-End,2.0,Clear,,
+Interstate Highway,070A,262.463,3/16/2024,13:48:00,39.73882,-105.16036,Rear-End,2.0,Clear,47.0,M
+Interstate Highway,070A,228.021,3/16/2024,14:45:00,39.7177,-105.6962,Rear-End,3.0,Clear,66.0,F
+Interstate Highway,070A,288.598,3/17/2024,06:53:00,39.74011,-104.72539,Cable Rail,1.0,Clear,,
+Interstate Highway,070A,242.689,3/18/2024,05:52:00,39.74551,-105.46663,Concrete Highway Barrier,1.0,Clear,44.0,M
+Interstate Highway,070A,239.808,3/18/2024,08:49:00,39.74076,-105.51708,Concrete Highway Barrier,3.0,Clear,25.0,M
+Interstate Highway,070A,239.503,3/18/2024,09:29:00,39.74139,-105.52297,Rear-End,2.0,Clear,24.0,M
+Interstate Highway,070A,247.459,3/18/2024,16:15:00,39.71571,-105.39425,Embankment,1.0,Clear,25.0,M
+Interstate Highway,070A,302.000,3/19/2024,07:30:00,39.738208,-104.477456,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,294.824,3/20/2024,09:15:00,39.74005,-104.61282,Sideswipe Same Direction,2.0,Clear,49.0,M
+Interstate Highway,070A,249.037,3/20/2024,22:25:00,39.71331,-105.36714,Guardrail Face,1.0,Clear,19.0,M
+Interstate Highway,070A,240.957,3/23/2024,15:40:00,39.74074,-105.49658,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,288.158,3/23/2024,21:11:00,39.74138,-104.73449,Concrete Highway Barrier,2.0,Clear,39.0,M
+Interstate Highway,070A,272.247,3/24/2024,18:13:00,39.71667,-105.39755,Rear-End,2.0,Snow,34.0,M
+Interstate Highway,070A,244.924,3/24/2024,18:50:00,39.73872,-105.43183,Rear-End,2.0,Snow,24.0,F
+Interstate Highway,070A,288.432,3/24/2024,21:16:00,39.74042,-104.72799,Sideswipe Same Direction,2.0,Snow,29.0,M
+Interstate Highway,070A,307.359,3/24/2024,23:13:00,39.73326,-104.3782,Overturning/Rollover,1.0,Snow,38.0,M
+Interstate Highway,070A,245.274,3/25/2024,06:43:00,39.73433,-105.42834,Sideswipe Same Direction,3.0,Cloudy,19.0,M
+Interstate Highway,070A,252.936,3/25/2024,11:56:00,39.71306,-105.30522,Embankment,1.0,Fog,30.0,M
+Frontage Road,070A,291.222,3/25/2024,14:30:00,39.73938,-104.67801,Light Pole/Utility Pole,1.0,Cloudy,31.0,M
+Interstate Highway,070A,261.043,3/26/2024,15:30:00,39.72565,-105.17923,Rear-End,2.0,Clear,29.0,F
+Interstate Highway,070A,313.557,3/27/2024,00:31:00,39.72619,-104.26328,Wild Animal,1.0,Clear,21.0,M
+Interstate Highway,070A,245.894,3/28/2024,12:55:00,39.72675,-105.42212,Sideswipe Same Direction,2.0,Clear,26.0,F
+Interstate Highway,070A,260.116,3/28/2024,17:18:00,39.71602,-105.19182,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,252.681,3/29/2024,11:45:00,39.71396,-105.30978,Rear-End,2.0,Snow,51.0,F
+Interstate Highway,070A,245.706,3/30/2024,06:36:00,39.729,-105.4242,Rear-End,2.0,Cloudy,28.0,M
+Interstate Highway,070A,308.000,3/30/2024,18:51:00,39.73289,-104.36646,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,299.308,4/1/2024,08:15:00,39.738302,-104.527346,Rear-End,2.0,Clear,64.0,M
+Interstate Highway,070A,261.147,4/1/2024,13:42:00,39.72643,-105.17778,Delineator/Milepost,1.0,Cloudy,40.0,M
+Interstate Highway,070A,246.067,4/1/2024,18:00:00,39.725,-105.41939,Concrete Highway Barrier,1.0,Blowing Snow,31.0,M
+Interstate Highway,070A,249.082,4/1/2024,18:30:00,39.71288,-105.36668,Guardrail Face,1.0,Snow,25.0,M
+Interstate Highway,070A,261.216,4/2/2024,04:50:00,39.72713,-105.17691,Guardrail Face,1.0,Cloudy,28.0,M
+Interstate Highway,070A,252.965,4/2/2024,14:59:00,39.71268,-105.30481,Sideswipe Same Direction,2.0,Clear,32.0,M
+Interstate Highway,070A,288.636,4/3/2024,07:51:00,39.74007,-104.72487,Rear-End,2.0,Clear,17.0,M
+Interstate Highway,070A,261.680,4/3/2024,11:50:00,39.73171,-105.16978,Rear-End,3.0,Clear,91.0,F
+Interstate Highway,070A,261.848,4/4/2024,16:50:00,39.73327,-105.16745,Rear-End,2.0,Clear,87.0,M
+Interstate Highway,070A,260.250,4/4/2024,17:24:00,39.717429,-105.189978,Rear-End,2.0,Clear,26.0,M
+Interstate Highway,070A,229.602,4/6/2024,21:46:00,39.73787,-105.68663,Parked Motor Vehicle,4.0,Blowing Snow,22.0,M
+Interstate Highway,070A,262.027,4/6/2024,22:45:00,39.73513,-105.16559,Sideswipe Same Direction,3.0,Wind,,
+Interstate Highway,070A,293.126,4/7/2024,03:20:00,39.73861,-104.64264,Parked Motor Vehicle,2.0,Clear,,
+Interstate Highway,070A,241.978,4/12/2024,16:34:00,39.74375,-105.48136,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,294.721,4/13/2024,14:52:00,39.73999,-104.61613,Overturning/Rollover,1.0,Wind,38.0,M
+Interstate Highway,070A,242.866,4/17/2024,22:40:00,39.74669,-105.46345,Sideswipe Same Direction,2.0,Rain,54.0,M
+Interstate Highway,070A,247.984,4/19/2024,17:25:00,39.71547,-105.38392,Guardrail Face,1.0,Snow,19.0,M
+Interstate Highway,070A,296.180,4/19/2024,19:55:00,39.74003,-104.58551,Fence,1.0,Snow,19.0,F
+Interstate Highway,070A,296.091,4/19/2024,21:29:00,39.74006,-104.58713,Overturning/Rollover,1.0,Freezing Rain or Freezing Drizzle,23.0,M
+Interstate Highway,070A,249.398,4/19/2024,22:08:00,39.71225,-105.36079,Rear-End,2.0,Snow,23.0,F
+Interstate Highway,070A,245.789,4/19/2024,23:20:00,39.72811,-105.42309,Guardrail Face,1.0,Snow,29.0,M
+Interstate Highway,070A,306.977,4/20/2024,01:00:00,39.73414,-104.38484,Other Non-Collision,1.0,Snow,34.0,F
+Interstate Highway,070A,293.413,4/20/2024,01:24:00,39.73797,-104.63748,Embankment,1.0,Snow,20.0,F
+Interstate Highway,070A,309.995,4/20/2024,05:06:00,39.73457,-104.3287,Sideswipe Same Direction,2.0,Snow,,
+Interstate Highway,070A,291.986,4/20/2024,05:35:00,39.74025,-104.66368,Cable Rail,1.0,Snow,29.0,M
+Interstate Highway,070A,306.718,4/20/2024,08:46:00,39.73485,-104.38936,Ditch,1.0,Snow,28.0,F
+Interstate Highway,070A,252.936,4/20/2024,21:22:00,39.71298,-105.30522,Guardrail Face,1.0,Clear,46.0,M
+Interstate Highway,070A,229.994,4/22/2024,22:30:00,39.74277,-105.68309,Other Non-Fixed Object Describe in Narrative),1.0,Clear,38.0,F
+Interstate Highway,070A,288.029,4/23/2024,19:17:00,39.74254,-104.73646,Wild Animal,1.0,Clear,61.0,M
+Interstate Highway,070A,260.003,4/24/2024,13:50:00,39.71454,-105.19261,Overtaking Turn,2.0,Clear,27.0,M
+Interstate Highway,070A,260.007,4/24/2024,13:50:00,39.71454,-105.19261,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,260.000,4/24/2024,13:50:00,39.71454,-105.19261,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,304.348,4/24/2024,14:15:00,39.73761,-104.43376,Rear-End,2.0,Clear,41.0,M
+Interstate Highway,070A,242.000,4/24/2024,15:05:00,39.743902,-105.481036,Other Non-Collision,2.0,Clear,69.0,M
+Interstate Highway,070A,309.782,4/24/2024,23:35:00,39.73442,-104.33379,Overturning/Rollover,1.0,Clear,43.0,M
+Interstate Highway,070A,262.571,4/25/2024,10:45:00,39.74035,-105.15986,Broadside,2.0,Clear,45.0,M
+Interstate Highway,070A,261.000,4/27/2024,09:20:00,39.72492,-105.179713,Sideswipe Same Direction,2.0,Freezing Rain or Freezing Drizzle,28.0,F
+Interstate Highway,070A,299.208,4/27/2024,11:27:00,39.73876,-104.52932,Head-On,2.0,Snow,19.0,M
+Interstate Highway,070A,307.006,4/27/2024,13:12:00,39.73393,-104.38437,Rear-End,2.0,Snow,64.0,F
+Interstate Highway,070A,310.658,4/29/2024,21:20:00,39.73347,-104.31506,Guardrail Face,1.0,Clear,61.0,M
+Interstate Highway,070A,291.458,5/2/2024,22:45:00,39.740217,-104.674189,Pedestrian,1.0,Clear,,
+Interstate Highway,070A,291.360,5/2/2024,22:50:00,39.74024,-104.67587,Cable Rail,1.0,Clear,36.0,M
+Interstate Highway,070A,259.820,5/5/2024,18:15:00,39.71356,-105.19492,Light Pole/Utility Pole,1.0,Clear,37.0,M
+Interstate Highway,070A,254.275,5/6/2024,13:00:00,39.70806,-105.28132,Guardrail Face,1.0,Wind,58.0,F
+Interstate Highway,070A,259.94,5/7/2024,07:59:00,39.70867,-105.19193,Rear-End,4.0,Cloudy,,
+Frontage Road,070A,291.222,5/7/2024,23:24:00,39.73957,-104.67828,Broadside,2.0,Cloudy,,
+Interstate Highway,070A,312.666,5/7/2024,23:52:00,39.72981,-104.27892,Rear-End,2.0,Clear,,
+Interstate Highway,070A,296.846,5/9/2024,10:46:00,39.74032,-104.70257,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,244.285,5/11/2024,16:55:00,39.74566,-105.43874,Concrete Highway Barrier,1.0,Clear,29.0,M
+Interstate Highway,070A,230.120,5/12/2024,03:01:00,39.74401,-105.68142,Guardrail Face,1.0,Freezing Rain or Freezing Drizzle,37.0,M
+Interstate Highway,070A,291.163,5/13/2024,05:00:00,39.74025,-104.67938,Cable Rail,1.0,Clear,19.0,M
+Interstate Highway,070A,244.31,5/13/2024,12:00:00,39.74668,-105.43708,Overturning/Rollover,1.0,Clear,37.0,M
+Interstate Highway,070A,293.364,5/14/2024,06:00:00,39.73805,-104.63839,Guardrail Face,1.0,Clear,,U
+Interstate Highway,070A,261.549,5/14/2024,09:45:00,39.73061,-105.1723,Rear-End,2.0,Clear,53.0,M
+Interstate Highway,070A,248.329,5/14/2024,12:30:00,39.71495,-105.37826,Rear-End,2.0,Clear,32.0,M
+Interstate Highway,070A,259.70,5/15/2024,21:48:00,39.70861,-105.19699,Guardrail Face,1.0,Cloudy,34.0,M
+Interstate Highway,070A,307.918,5/16/2024,08:59:00,39.73325,-104.36802,Rear-End,2.0,Clear,18.0,M
+Interstate Highway,070A,292.013,5/17/2024,11:00:00,39.7402,-104.66302,Rear-End,2.0,Clear,18.0,F
+Interstate Highway,070A,303.000,5/17/2024,18:44:00,39.73815,-104.45892,Parked Motor Vehicle,2.0,Clear,36.0,M
+Interstate Highway,070A,261.664,5/18/2024,12:00:00,39.731,-105.16929,Rear-End,2.0,Clear,37.0,F
+Interstate Highway,070A,295.080,5/20/2024,15:59:00,39.73994,-104.60575,Light Pole/Utility Pole,2.0,Cloudy,,
+Interstate Highway,070A,289.158,5/20/2024,16:05:00,39.73964,-104.71612,Rear-End,2.0,Rain,57.0,M
+Interstate Highway,070A,294.960,5/21/2024,14:23:00,39.7403,-104.60849,Tree,1.0,Rain,69.0,M
+Interstate Highway,070A,252.00,5/21/2024,14:50:00,39.70909,-105.31933,Rear-End,2.0,Clear,,
+Interstate Highway,070A,246.640,5/24/2024,15:00:00,39.7212,-105.40889,Sideswipe Same Direction,2.0,Clear,43.0,M
+Interstate Highway,070A,154.000,5/27/2024,12:30:00,39.71088,-106.70919,Sideswipe Same Direction,2.0,Clear,18.0,M
+Interstate Highway,070A,230.702,5/27/2024,17:27:00,39.74801,-105.672,Sideswipe Same Direction,1.0,Clear,,
+Interstate Highway,070A,241.517,5/28/2024,08:12:00,39.74463,-105.48878,Rear-End,2.0,Clear,20.0,M
+Frontage Road,070A,289.28,5/29/2024,17:39:00,39.7379,-104.71431,Sideswipe Same Direction,2.0,Clear,41.0,F
+Interstate Highway,070A,292.147,5/29/2024,20:07:00,39.74049,-104.66098,Other Non-Fixed Object Describe in Narrative),1.0,Clear,22.0,M
+Interstate Highway,070A,260.354,5/30/2024,12:30:00,39.71869,-105.1888,Other Non-Fixed Object Describe in Narrative),1.0,Clear,38.0,F
+Interstate Highway,070A,261.50,5/30/2024,16:30:00,39.7295,-105.17232,Rear-End,2.0,Clear,58.0,M
+Interstate Highway,070A,305.507,5/30/2024,20:25:00,39.73838,-104.41262,Overturning/Rollover,1.0,Clear,48.0,M
+Interstate Highway,070A,296.460,5/30/2024,23:45:00,39.73977,-104.58035,Guardrail End,1.0,Sleet or Hail,25.0,M
+Interstate Highway,070A,310.596,5/31/2024,04:35:00,39.73351,-104.31621,Ditch,1.0,Clear,39.0,F
+Interstate Highway,070A,261.437,5/31/2024,06:34:00,39.72892,-105.17333,Rear-End,2.0,Cloudy,24.0,M
+Interstate Highway,070A,316.900,5/31/2024,20:15:00,39.71001,-104.20589,Sideswipe Same Direction,2.0,Clear,46.0,M
+Interstate Highway,070A,246.579,6/4/2024,03:00:00,39.72118,-105.40974,Ditch,1.0,Clear,35.0,M
+Interstate Highway,070A,262.971,6/4/2024,07:40:00,39.74102,-105.15805,Vehicle Debris or Cargo,1.0,Cloudy,23.0,F
+Interstate Highway,070A,244.31,6/4/2024,15:32:00,39.72566,-105.17919,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,294.932,6/5/2024,03:50:00,39.74032,-104.60937,Wild Animal,1.0,Clear,53.0,F
+Interstate Highway,070A,245.967,6/6/2024,17:15:00,39.72629,-105.42077,Rear-End,2.0,Clear,65.0,M
+Interstate Highway,070A,262.160,6/6/2024,17:50:00,39.73613,-105.16385,Sideswipe Same Direction,2.0,Clear,31.0,F
+Interstate Highway,070A,246.42,6/7/2024,07:09:00,39.72195,-105.41246,Sideswipe Same Direction,2.0,Cloudy,40.0,M
+Interstate Highway,070A,291.222,6/8/2024,09:52:00,39.73999,-104.67829,Cable Rail,1.0,Clear,25.0,M
+Interstate Highway,070A,243.00,6/8/2024,13:39:00,39.7462,-105.46054,Guardrail Face,1.0,Clear,22.0,M
+Interstate Highway,070A,242.980,6/8/2024,13:39:00,39.746337,-105.46088,Guardrail Face,1.0,Clear,22.0,M
+Interstate Highway,070A,291.854,6/10/2024,22:50:00,39.74009,-104.66729,Rear-End,2.0,Clear,25.0,F
+Interstate Highway,070A,253.543,6/11/2024,15:23:00,39.70996,-105.29445,Rear-End,2.0,Clear,25.0,M
+Interstate Highway,070A,262.107,6/11/2024,19:25:00,39.73566,-105.164437,Rear-End,2.0,Clear,20.0,M
+Interstate Highway,070A,298.628,6/12/2024,21:29:00,39.73831,-104.54044,Wild Animal,1.0,Clear,18.0,M
+Interstate Highway,070A,244.242,6/13/2024,06:33:00,39.74546,-105.4396,Overturning/Rollover,1.0,Clear,45.0,M
+Interstate Highway,070A,243.285,6/13/2024,21:02:00,39.74406,-105.45606,Rear-End,2.0,Cloudy,33.0,M
+Interstate Highway,070A,252.409,6/14/2024,16:30:00,39.71318,-105.3144,Sideswipe Same Direction,2.0,Clear,52.0,M
+Interstate Highway,070A,254.222,6/15/2024,08:00:00,39.70837,-105.2822,Fence,0.0,Clear,70.0,M
+Interstate Highway,070A,287.983,6/15/2024,23:27:00,39.7429,-104.73693,Sideswipe Same Direction,3.0,Clear,,
+Interstate Highway,070A,227.60,6/16/2024,15:40:00,39.7109,-105.69728,Rear-End,2.0,Clear,30.0,M
+Interstate Highway,070A,291.000,6/16/2024,16:59:00,39.74004,-104.68235,Cable Rail,1.0,Clear,41.0,M
+Interstate Highway,070A,261.00,6/17/2024,00:06:00,39.72891,-105.17397,Overturning/Rollover,1.0,Clear,23.0,M
+Interstate Highway,070A,252.529,6/17/2024,17:22:00,39.71391,-105.31257,Concrete Highway Barrier,1.0,Cloudy,37.0,M
+Frontage Road,070A,311.688,6/17/2024,21:32:00,39.73986,-104.73489,Broadside,2.0,Clear,43.0,M
+Interstate Highway,070A,259.886,6/18/2024,08:40:00,39.71313,-105.19333,Sideswipe Same Direction,2.0,Clear,61.0,F
+Interstate Highway,070A,242.920,6/18/2024,12:12:00,39.74665,-105.46221,Concrete Highway Barrier,1.0,Clear,34.0,M
+Interstate Highway,070A,227.612,6/19/2024,12:39:00,39.71106,-105.6973,Concrete Highway Barrier,6.0,Clear,38.0,M
+Interstate Highway,070A,242.308,6/20/2024,08:30:00,39.74478,-105.47456,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,302.000,6/20/2024,08:31:00,39.73842,-104.47747,Rear-End,2.0,Clear,18.0,M
+Interstate Highway,070A,246.052,6/20/2024,14:06:00,39.72521,-105.41964,Sideswipe Same Direction,2.0,Cloudy,60.0,F
+Frontage Road,070A,291.222,6/20/2024,22:30:00,39.73963,-104.67831,Broadside,2.0,Clear,51.0,M
+Interstate Highway,070A,247.018,6/21/2024,17:27:00,39.71903,-105.40177,Concrete Highway Barrier,1.0,Cloudy,33.0,M
+Interstate Highway,070A,312.946,6/22/2024,05:30:00,39.7289,-104.27387,Wild Animal,1.0,Clear,26.0,M
+Interstate Highway,070A,299.083,6/24/2024,17:29:00,39.73876,-104.53178,Other Non-Fixed Object Describe in Narrative),1.0,Clear,82.0,F
+Interstate Highway,070A,260.945,6/24/2024,17:48:00,39.7246,-105.18074,Rear-End,2.0,Clear,31.0,F
+Interstate Highway,070A,260.982,6/25/2024,15:54:00,39.72494,-105.18019,Rear-End,3.0,Clear,85.0,M
+Interstate Highway,070A,259.60,6/26/2024,06:03:00,39.70954,-105.19557,Guardrail Face,1.0,Clear,72.0,F
+Interstate Highway,070A,301.782,6/26/2024,18:11:00,39.73836,-104.48153,Vehicle Debris or Cargo,2.0,Cloudy,,
+Interstate Highway,070A,246.780,6/27/2024,17:00:00,39.7203,-105.40629,Rear-End,2.0,Cloudy,39.0,M
+Interstate Highway,070A,238.379,6/28/2024,13:02:00,39.74667,-105.54343,Rear-End,2.0,Clear,57.0,M
+Interstate Highway,070A,245.815,6/29/2024,04:43:00,39.72769,-105.423,Pedestrian,1.0,Clear,,
+Interstate Highway,070A,263.257,6/29/2024,08:55:00,39.74733,-105.15011,Rear-End,2.0,Clear,20.0,M
+Interstate Highway,070A,153.816,6/29/2024,21:00:00,39.7106,-106.71294,Overturning/Rollover,1.0,Clear,,U
+Interstate Highway,070A,313.750,6/29/2024,21:00:00,39.7251,-104.26002,Wild Animal,1.0,Clear,18.0,M
+Interstate Highway,070A,248.942,7/1/2024,16:25:00,39.71393,-105.36863,Rear-End,3.0,Clear,68.0,M
+Interstate Highway,070A,299.267,7/2/2024,14:56:00,39.73868,-104.52814,Rear-End,2.0,Clear,71.0,M
+Interstate Highway,070A,310.918,7/3/2024,14:29:00,39.73251,-104.31045,Sideswipe Same Direction,2.0,Clear,56.0,M
+Interstate Highway,070A,296.961,7/5/2024,00:42:00,39.73946,-104.57114,Sideswipe Same Direction,2.0,Clear,17.0,M
+Interstate Highway,070A,241.75,7/5/2024,13:40:00,39.744266,-105.485188,Sideswipe Same Direction,2.0,Clear,29.0,M
+Frontage Road,070A,291.222,7/7/2024,18:15:00,39.73965,-104.67818,Approach Turn,2.0,Cloudy,20.0,F
+Interstate Highway,070A,308.32,7/9/2024,13:00:00,39.73323,-104.3606,Vehicle Debris or Cargo,1.0,Clear,23.0,M
+Interstate Highway,070A,262.661,7/10/2024,14:49:00,39.740701,-105.158024,Sideswipe Same Direction,2.0,Clear,28.0,M
+Interstate Highway,070A,228.131,7/11/2024,12:08:00,39.71937,-105.69595,Sideswipe Same Direction,2.0,Clear,77.0,M
+Interstate Highway,070A,238.49,7/12/2024,18:10:00,39.74626,-105.54149,Sideswipe Same Direction,2.0,Clear,20.0,M
+Interstate Highway,070A,288.338,7/13/2024,03:09:00,39.74007,-104.73011,Other Non-Fixed Object Describe in Narrative),1.0,Clear,30.0,M
+Interstate Highway,070A,246.855,7/15/2024,15:40:00,39.71997,-105.40485,Concrete Highway Barrier,1.0,Rain,46.0,M
+Interstate Highway,070A,253.542,7/18/2024,13:02:00,39.71018,-105.29444,Sideswipe Same Direction,2.0,Clear,80.0,M
+Interstate Highway,070A,261.301,7/18/2024,14:35:00,39.72774,-105.17543,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,251.996,7/20/2024,02:06:00,39.70906,-105.31936,Wild Animal,1.0,Clear,21.0,M
+Interstate Highway,070A,259.820,7/20/2024,05:57:00,39.71405,-105.19502,Sign,1.0,Clear,67.0,M
+Interstate Highway,070A,262.447,7/20/2024,22:28:00,39.73887,-105.16075,Rear-End,2.0,Cloudy,34.0,F
+Interstate Highway,070A,260.476,7/21/2024,07:05:00,39.72008,-105.18734,Ditch,1.0,Clear,39.0,F
+Interstate Highway,070A,262.571,7/22/2024,16:35:00,39.73911,-105.15839,Sideswipe Same Direction,2.0,Clear,39.0,M
+Interstate Highway,070A,153.919,7/26/2024,09:25:00,39.71072,-106.71083,Vehicle Debris or Cargo,2.0,Clear,,
+Frontage Road,070A,291.220,7/26/2024,23:30:00,39.73971,-104.67831,Approach Turn,2.0,Clear,19.0,M
+Interstate Highway,070A,245.683,7/27/2024,09:00:00,39.72921,-105.42456,Rear-End,3.0,Clear,64.0,M
+Interstate Highway,070A,243.964,7/27/2024,17:36:00,39.74334,-105.44416,Rear-End,2.0,Cloudy,30.0,M
+Interstate Highway,070A,291.944,7/28/2024,01:06:00,39.74029,-104.6651,Guardrail Face,1.0,Cloudy,25.0,M
+Interstate Highway,070A,244.956,7/29/2024,10:00:00,39.73827,-105.43164,Concrete Highway Barrier,1.0,Clear,21.0,M
+Interstate Highway,070A,288.389,8/1/2024,17:05:00,39.74016,-104.72895,Sideswipe Same Direction,2.0,Clear,45.0,M
+Interstate Highway,070A,316.893,8/3/2024,11:25:00,39.71003,-104.20609,Overturning/Rollover,1.0,Clear,26.0,M
+Interstate Highway,070A,299.328,8/4/2024,18:15:00,39.73864,-104.52694,Vehicle Debris or Cargo,2.0,Clear,31.0,M
+Interstate Highway,070A,241.614,8/6/2024,16:50:00,39.74462,-105.48726,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,306.626,8/6/2024,18:35:00,39.735,-104.391,Parked Motor Vehicle,2.0,Rain,71.0,M
+Interstate Highway,070A,302.875,8/7/2024,11:11:00,39.73841,-104.46118,Parked Motor Vehicle,2.0,Clear,32.0,M
+Interstate Highway,070A,296.069,8/7/2024,22:55:00,39.73999,-104.58754,Fence,1.0,Clear,30.0,M
+Interstate Highway,070A,227.614,8/8/2024,13:40:00,39.7111,-105.69722,Concrete Highway Barrier,1.0,Cloudy,22.0,M
+Interstate Highway,070A,249.801,8/8/2024,20:35:00,39.71179,-105.35326,Wild Animal,1.0,Cloudy,53.0,F
+Interstate Highway,070A,245.906,8/9/2024,14:28:00,39.72663,-105.422,Rear-End,2.0,Cloudy,17.0,M
+Interstate Highway,070A,260.123,8/9/2024,17:01:00,39.71581,-105.1911,Concrete Highway Barrier,1.0,Cloudy,20.0,M
+Interstate Highway,070A,263.023,8/11/2024,03:01:00,39.74439,-105.15343,Cable Rail,1.0,Cloudy,20.0,F
+Interstate Highway,070A,240.01,8/11/2024,22:57:00,39.74134,-105.51364,Concrete Highway Barrier,1.0,Clear,22.0,M
+Interstate Highway,070A,230.792,8/12/2024,04:00:00,39.74868,-105.67058,Cable Rail,1.0,Clear,,
+Interstate Highway,070A,210.367,8/12/2024,07:05:00,39.741188,-105.013934,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,229.00,8/12/2024,20:20:00,39.73056,-105.69245,Wild Animal,1.0,Clear,24.0,F
+Frontage Road,070A,311.688,8/14/2024,17:40:00,39.73987,-104.73489,Broadside,2.0,Cloudy,34.0,F
+Interstate Highway,070A,288.804,8/14/2024,18:38:00,39.74009,-104.72256,Rear-End,2.0,Clear,26.0,M
+Interstate Highway,070A,246.740,8/14/2024,21:10:00,39.72047,-105.40708,Overturning/Rollover,1.0,Rain,34.0,M
+Interstate Highway,070A,230.685,8/15/2024,13:20:00,39.74787,-105.67226,Sideswipe Same Direction,2.0,Clear,63.0,M
+Interstate Highway,070A,310.531,8/15/2024,23:26:00,39.73394,-104.31733,Other Non-Fixed Object Describe in Narrative),1.0,Cloudy,47.0,M
+Interstate Highway,070A,315.510,8/17/2024,11:55:00,39.71739,-104.2288,Other Non-Fixed Object Describe in Narrative),1.0,Clear,19.0,F
+Interstate Highway,070A,227.984,8/17/2024,15:24:00,39.71646,-105.69637,Rear-End,4.0,Clear,38.0,M
+Interstate Highway,070A,244.00,8/18/2024,08:50:00,39.72007,-105.41036,Rear-End,4.0,Cloudy,28.0,M
+Interstate Highway,070A,254.207,8/19/2024,13:46:00,39.7085,-105.28244,Rear-End,2.0,Rain,58.0,F
+Interstate Highway,070A,260.127,8/20/2024,10:02:00,39.71604,-105.19146,Rear-End,2.0,Clear,28.0,M
+Interstate Highway,070A,288.099,8/21/2024,05:50:00,39.74222,-104.73588,Guardrail End,1.0,Clear,,
+Interstate Highway,070A,262.52,8/21/2024,16:45:00,39.73906,-105.15935,Rear-End,2.0,Cloudy,18.0,F
+Interstate Highway,070A,262.461,8/22/2024,08:27:00,39.73903,-105.16068,Rear-End,2.0,Cloudy,38.0,M
+Interstate Highway,070A,262.461,8/22/2024,08:27:00,39.73903,-105.16068,Rear-End,2.0,Cloudy,25.0,F
+Interstate Highway,070A,260.000,8/22/2024,14:39:00,39.7144,-105.19231,Rear-End,2.0,Clear,41.0,M
+Interstate Highway,070A,261.618,8/22/2024,18:01:00,39.7308,-105.1704,Rear-End,3.0,Cloudy,39.0,M
+Interstate Highway,070A,305.235,8/23/2024,15:19:00,39.73805,-104.41842,Sign,1.0,Cloudy,25.0,M
+Frontage Road,070A,303.395,8/24/2024,02:19:00,39.73785,-104.45206,Overturning/Rollover,1.0,Cloudy,22.0,F
+Interstate Highway,070A,294.840,8/24/2024,08:22:00,39.7402,-104.61232,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,294.830,8/24/2024,19:28:00,39.74002,-104.61262,Other Non-Fixed Object Describe in Narrative),1.0,Cloudy,19.0,F
+Interstate Highway,070A,242.164,8/25/2024,17:30:00,39.74431,-105.47757,Rear-End,3.0,Clear,41.0,M
+Interstate Highway,070A,299.520,8/25/2024,21:44:00,39.73848,-104.52347,Rear-End,2.0,Clear,34.0,F
+Interstate Highway,070A,303.048,8/27/2024,14:50:00,39.73818,-104.45802,Overturning/Rollover,1.0,Clear,66.0,M
+Interstate Highway,070A,261.640,8/28/2024,15:45:00,39.73058,-105.17236,Rear-End,2.0,Clear,25.0,M
+Frontage Road,070A,291.222,8/30/2024,05:30:00,39.73957,-104.67831,Broadside,2.0,Clear,35.0,M
+Interstate Highway,070A,262.575,9/2/2024,14:00:00,39.74041,-105.15984,Rear-End,2.0,Clear,31.0,F
+Interstate Highway,070A,309.846,9/2/2024,15:58:00,39.73426,-104.33229,Overturning/Rollover,1.0,Clear,19.0,M
+Interstate Highway,070A,241.011,9/3/2024,01:30:00,39.74164,-105.49591,Sign,1.0,Clear,33.0,F
+Interstate Highway,070A,246.711,9/4/2024,15:22:00,39.72064,-105.40761,Rear-End,2.0,Rain,56.0,M
+Interstate Highway,070A,253.148,9/4/2024,16:41:00,39.71155,-105.30166,Sideswipe Same Direction,2.0,Rain,,
+Interstate Highway,070A,291.036,9/5/2024,16:06:00,39.74002,-104.68172,Rear-End,2.0,Clear,53.0,M
+Interstate Highway,070A,249.000,9/6/2024,10:00:00,39.713424,-105.36789,Overturning/Rollover,1.0,Clear,28.0,M
+Interstate Highway,070A,241.327,9/8/2024,13:52:00,39.74342,-105.49123,Rear-End,2.0,Clear,18.0,M
+Interstate Highway,070A,260.244,9/8/2024,20:25:00,39.71732,-105.18997,Overturning/Rollover,2.0,Clear,30.0,M
+Interstate Highway,070A,245.109,9/9/2024,17:36:00,39.73639,-105.42996,Sideswipe Same Direction,2.0,Clear,23.0,F
+Frontage Road,070A,291.222,9/10/2024,10:05:00,39.73956,-104.67828,Broadside,2.0,Clear,21.0,M
+Interstate Highway,070A,253.00,9/10/2024,18:00:00,39.7125,-105.30422,Overturning/Rollover,1.0,Wind,48.0,M
+Interstate Highway,070A,260.23,9/11/2024,06:30:00,39.71716,-105.19011,Rear-End,2.0,Clear,19.0,M
+Interstate Highway,070A,261.781,9/11/2024,08:45:00,39.73272,-105.16844,Rear-End,2.0,Clear,63.0,M
+Interstate Highway,070A,261.768,9/11/2024,08:45:00,39.7326,-105.16861,Rear-End,2.0,Clear,34.0,M
+Interstate Highway,070A,308.052,9/11/2024,17:46:00,39.7331,-104.36552,Vehicle Debris or Cargo,2.0,Clear,,U
+Interstate Highway,070A,311.563,9/12/2024,02:49:00,39.73058,-104.29892,Wild Animal,1.0,Clear,30.0,M
+Interstate Highway,070A,260.732,9/13/2024,06:24:00,39.72257,-105.18388,Rear-End,3.0,Clear,35.0,M
+Interstate Highway,070A,312.088,9/13/2024,06:50:00,39.72907,-104.28948,Parked Motor Vehicle,2.0,Clear,53.0,M
+Interstate Highway,070A,305.051,9/13/2024,18:20:00,39.73837,-104.42039,Sideswipe Same Direction,2.0,Clear,,U
+Interstate Highway,070A,260.762,9/14/2024,09:31:00,39.7229,-105.18344,Rear-End,2.0,Clear,24.0,F
+Interstate Highway,070A,289.374,9/14/2024,11:24:00,39.74029,-104.7122,Other Non-Collision,2.0,Clear,18.0,F
+Interstate Highway,070A,246.000,9/14/2024,15:51:00,39.725786,-105.420565,Sideswipe Same Direction,2.0,Clear,36.0,M
+Frontage Road,070A,303.395,9/15/2024,02:00:00,39.73779,-104.45185,Overturning/Rollover,1.0,Clear,19.0,M
+Interstate Highway,070A,230.931,9/18/2024,11:30:00,39.74944,-105.66822,Guardrail Face,1.0,Clear,32.0,M
+Interstate Highway,070A,260.983,9/19/2024,09:40:00,39.72494,-105.18019,Rear-End,2.0,Clear,33.0,M
+Interstate Highway,070A,290.479,9/19/2024,20:45:00,39.74006,-104.68989,Sideswipe Same Direction,2.0,Clear,,U
+Interstate Highway,070A,306.604,9/19/2024,22:09:00,39.73535,-104.39131,Parked Motor Vehicle,2.0,Clear,39.0,F
+Interstate Highway,070A,302.933,9/21/2024,10:40:00,39.73818,-104.46012,Sign,1.0,Clear,37.0,M
+Interstate Highway,070A,261.472,9/22/2024,07:00:00,39.72922,-105.17278,Guardrail Face,1.0,Rain,58.0,F
+Interstate Highway,070A,315.259,9/24/2024,03:45:00,39.71873,-104.23318,Wild Animal,1.0,Clear,34.0,M
+Interstate Highway,070A,242.223,9/24/2024,08:30:00,39.7444,-105.4763,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,262.363,9/24/2024,12:33:00,39.73793,-105.16152,Sideswipe Same Direction,2.0,Clear,41.0,M
+Interstate Highway,070A,262.939,9/24/2024,13:24:00,39.7435,-105.15452,Rear-End,2.0,Clear,59.0,M
+Interstate Highway,070A,289.164,9/25/2024,14:55:00,39.73963,-104.71606,Broadside,2.0,Clear,19.0,F
+Interstate Highway,070A,245.021,9/26/2024,19:31:00,39.73748,-105.43088,Rear-End,2.0,Clear,24.0,F
+Interstate Highway,070A,243.259,9/27/2024,13:32:00,39.74677,-105.46316,Rear-End,3.0,Clear,70.0,M
+Interstate Highway,070A,228.711,9/27/2024,17:00:00,39.72689,-105.69405,Rear-End,2.0,Clear,56.0,M
+Interstate Highway,070A,261.994,9/27/2024,18:54:00,39.73462,-105.16566,Vehicle Debris or Cargo,2.0,Clear,54.0,M
+Interstate Highway,070A,243.996,9/29/2024,09:21:00,39.74357,-105.44355,Sideswipe Same Direction,4.0,Clear,,
+Interstate Highway,070A,260.865,9/29/2024,11:20:00,39.72358,-105.1817,Rear-End,2.0,Clear,63.0,M
+Interstate Highway,070A,259.650,9/30/2024,08:40:00,39.70995,-105.19418,Overturning/Rollover,1.0,Clear,42.0,M
+Interstate Highway,070A,243.767,10/1/2024,18:45:00,39.74464,-105.44758,Concrete Highway Barrier,1.0,Clear,36.0,M
+Interstate Highway,070A,247.727,10/2/2024,11:19:00,39.71586,-105.38911,Rear-End,2.0,Clear,34.0,M
+Interstate Highway,070A,289.833,10/2/2024,19:05:00,39.73998,-104.70285,Rear-End,2.0,Clear,27.0,M
+Interstate Highway,070A,252.00,10/3/2024,11:05:00,39.7091,-105.31923,Sideswipe Same Direction,2.0,Clear,39.0,M
+Interstate Highway,070A,261.721,10/3/2024,15:00:00,39.73219,-105.16929,Sideswipe Same Direction,2.0,Clear,22.0,M
+Interstate Highway,070A,289.668,10/3/2024,15:52:00,39.74044,-104.70631,Rear-End,2.0,Clear,36.0,M
+Interstate Highway,070A,260.354,10/4/2024,10:35:00,39.71938,-105.18865,Rear-End,2.0,Clear,20.0,M
+Interstate Highway,070A,289.164,10/4/2024,12:30:00,39.73956,-104.71587,Approach Turn,2.0,Cloudy,66.0,M
+Interstate Highway,070A,242.943,10/4/2024,15:55:00,39.74611,-105.46178,Rear-End,2.0,Clear,60.0,M
+Interstate Highway,070A,259.50,10/7/2024,13:25:00,39.70854,-105.19688,Sideswipe Same Direction,2.0,Clear,25.0,F
+Interstate Highway,070A,252.432,10/8/2024,08:00:00,39.71356,-105.31426,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,244.485,10/8/2024,16:15:00,39.74456,-105.43513,Overturning/Rollover,1.0,Clear,16.0,M
+Interstate Highway,070A,261.373,10/11/2024,08:30:00,39.72831,-105.17428,Sideswipe Same Direction,3.0,Clear,45.0,M
+Interstate Highway,070A,262.837,10/11/2024,09:46:00,39.74253,-105.15588,Sideswipe Same Direction,2.0,Clear,78.0,M
+Interstate Highway,070A,304.520,10/12/2024,03:59:00,39.73834,-104.42845,Wild Animal,1.0,Clear,33.0,M
+Interstate Highway,070A,288.532,10/13/2024,01:00:00,39.74031,-104.7263,Crash Cushion/Traffic Barrel,1.0,Clear,,
+Interstate Highway,070A,246.067,10/14/2024,08:35:00,39.72508,-105.41934,Crash Cushion/Traffic Barrel,1.0,Clear,21.0,F
+Interstate Highway,070A,241.527,10/14/2024,11:17:00,39.74458,-105.48859,Rear-End,2.0,Clear,35.0,F
+Interstate Highway,070A,262.834,10/14/2024,17:33:00,39.74243,-105.15578,Rear-End,2.0,Clear,45.0,M
+Interstate Highway,070A,261.544,10/14/2024,18:11:00,39.73014,-105.1718,Sideswipe Same Direction,2.0,Clear,51.0,M
+Interstate Highway,070A,259.78,10/15/2024,18:35:00,39.71217,-105.19406,Pedestrian,1.0,Clear,,
+Interstate Highway,070A,243.799,10/16/2024,11:44:00,39.74374,-105.45052,Sideswipe Same Direction,2.0,Cloudy,56.0,M
+Interstate Highway,070A,246.367,10/16/2024,19:40:00,39.72236,-105.4135,Concrete Highway Barrier,1.0,Clear,22.0,M
+Interstate Highway,070A,241.216,10/17/2024,15:30:00,39.74279,-105.49268,Rear-End,2.0,Clear,18.0,M
+Interstate Highway,070A,241.216,10/17/2024,15:30:00,39.74279,-105.49268,Rear-End,2.0,Clear,18.0,M
+Interstate Highway,070A,239.681,10/17/2024,23:58:00,39.74076,-105.51961,Wild Animal,1.0,Clear,21.0,M
+Interstate Highway,070A,261.609,10/18/2024,16:18:00,39.73267,-105.16815,Rear-End,2.0,Rain,33.0,M
+Interstate Highway,070A,310.000,10/19/2024,04:40:00,39.73465,-104.32851,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,310.915,10/21/2024,03:20:00,39.73308,-104.31035,Parked Motor Vehicle,2.0,Clear,40.0,F
+Interstate Highway,070A,240.875,10/21/2024,12:13:00,39.74046,-105.49807,Rear-End,2.0,Wind,41.0,F
+Interstate Highway,070A,241.973,10/21/2024,16:42:00,39.74366,-105.48144,Light Pole/Utility Pole,1.0,Clear,54.0,M
+Interstate Highway,070A,252.419,10/22/2024,11:55:00,39.71331,-105.31436,Rear-End,2.0,Clear,39.0,M
+Interstate Highway,070A,289.617,10/22/2024,16:30:00,39.74015,-104.70738,Rear-End,4.0,Clear,25.0,M
+Interstate Highway,070A,244.206,10/24/2024,10:12:00,39.74544,-105.4404,Rear-End,2.0,Cloudy,32.0,M
+Interstate Highway,070A,240.958,10/24/2024,20:28:00,39.74074,-105.49658,Overturning/Rollover,1.0,Clear,33.0,M
+Interstate Highway,070A,289.793,10/25/2024,06:06:00,39.74009,-104.70366,Other Non-Fixed Object Describe in Narrative),1.0,Clear,,
+Interstate Highway,070A,289.793,10/25/2024,06:06:00,39.74009,-104.70366,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,261.228,10/25/2024,17:12:00,39.72707,-105.17648,Rear-End,2.0,Clear,21.0,M
+Interstate Highway,070A,241.661,10/26/2024,03:45:00,39.74482,-105.48645,Embankment,1.0,Clear,41.0,F
+Interstate Highway,070A,295.657,10/26/2024,09:45:00,39.74002,-104.59512,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,246.845,10/26/2024,13:14:00,39.72003,-105.40505,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,262.571,10/27/2024,10:00:00,39.74035,-105.15986,Rear-End,2.0,Clear,30.0,F
+Interstate Highway,070A,262.591,10/29/2024,07:14:00,39.74054,-105.15958,Rear-End,2.0,Clear,17.0,F
+Interstate Highway,070A,246.562,10/31/2024,07:38:00,39.72142,-105.41022,Other Non-Fixed Object Describe in Narrative),2.0,Clear,51.0,F
+Interstate Highway,070A,262.571,10/31/2024,16:00:00,39.73981,-105.15914,Rear-End,2.0,Clear,22.0,F
+Interstate Highway,070A,289.160,11/1/2024,06:50:00,39.7394,-104.71614,Curb,1.0,Clear,23.0,M
+Interstate Highway,070A,288.029,11/1/2024,07:44:00,39.74257,-104.73645,Concrete Highway Barrier,1.0,Clear,55.0,M
+Interstate Highway,070A,154.648,11/2/2024,11:02:00,39.71163,-106.69886,Large Rocks or Boulder,1.0,Clear,20.0,F
+Interstate Highway,070A,260.277,11/2/2024,12:35:00,39.71777,-105.18973,Sideswipe Same Direction,2.0,Clear,68.0,M
+Interstate Highway,070A,252.162,11/3/2024,17:30:00,39.71068,-105.31743,Sideswipe Same Direction,3.0,Blowing Snow,70.0,M
+Interstate Highway,070A,245.068,11/4/2024,08:38:00,39.73685,-105.43029,Guardrail Face,1.0,Cloudy,25.0,M
+Interstate Highway,070A,245.420,11/4/2024,17:15:00,39.73241,-105.42706,Concrete Highway Barrier,1.0,Rain,38.0,M
+Interstate Highway,070A,239.916,11/5/2024,05:58:00,39.74109,-105.51503,Concrete Highway Barrier,1.0,Clear,70.0,F
+Interstate Highway,070A,262.538,11/6/2024,06:29:00,39.73952,-105.15953,Sideswipe Same Direction,2.0,Snow,25.0,M
+Interstate Highway,070A,262.539,11/6/2024,06:33:00,39.73955,-105.15954,Pedestrian,2.0,Snow,24.0,F
+Interstate Highway,070A,243.000,11/6/2024,08:10:00,39.746348,-105.460487,Crash Cushion/Traffic Barrel,1.0,Snow,38.0,F
+Interstate Highway,070A,261.03,11/6/2024,08:25:00,39.72531,-105.17908,Sideswipe Same Direction,2.0,Snow,53.0,M
+Interstate Highway,070A,241.051,11/6/2024,13:20:00,39.74174,-105.4949,Sideswipe Same Direction,2.0,Snow,,
+Interstate Highway,070A,288.295,11/7/2024,08:40:00,39.74089,-104.73108,Concrete Highway Barrier,1.0,Blowing Snow,20.0,F
+Interstate Highway,070A,295.000,11/7/2024,09:00:00,39.73994,-104.60715,Delineator/Milepost,1.0,Snow,50.0,F
+Interstate Highway,070A,252.367,11/7/2024,10:18:00,39.71276,-105.31495,Rear-End,3.0,Snow,21.0,M
+Interstate Highway,070A,240.00,11/8/2024,06:12:00,39.74142,-105.513806,Concrete Highway Barrier,1.0,Wind,23.0,M
+Interstate Highway,070A,241.089,11/8/2024,18:47:00,39.74182,-105.49425,Guardrail Face,1.0,Snow,29.0,M
+Interstate Highway,070A,251.997,11/9/2024,07:39:00,39.70934,-105.31948,Parked Motor Vehicle,2.0,Cloudy,26.0,M
+Interstate Highway,070A,309.776,11/10/2024,03:40:00,39.734667,-104.333861,Overturning/Rollover,1.0,Clear,16.0,M
+Interstate Highway,070A,291.030,11/10/2024,11:20:00,39.74021,-104.68184,Sideswipe Same Direction,2.0,Clear,22.0,M
+Interstate Highway,070A,298.514,11/12/2024,01:42:00,39.73913,-104.54257,Wild Animal,1.0,Clear,64.0,M
+Interstate Highway,070A,245.886,11/12/2024,06:55:00,39.72686,-105.42218,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,290.483,11/12/2024,18:03:00,39.74004,-104.68983,Wild Animal,1.0,Rain,30.0,F
+Interstate Highway,070A,294.997,11/13/2024,21:43:00,39.73993,-104.60734,Wild Animal,1.0,Clear,23.0,F
+Interstate Highway,070A,289.028,11/14/2024,09:20:00,39.7403,-104.71851,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,310.725,11/17/2024,21:26:00,39.73334,-104.31383,Guardrail Face,1.0,Clear,54.0,M
+Interstate Highway,070A,310.165,11/19/2024,01:38:00,39.73411,-104.3262,Delineator/Milepost,1.0,Clear,41.0,M
+Interstate Highway,070A,243.199,11/19/2024,11:00:00,39.74497,-105.45728,Rear-End,2.0,Clear,29.0,M
+Interstate Highway,070A,242.959,11/19/2024,23:10:00,39.74643,-105.46131,Concrete Highway Barrier,1.0,Clear,17.0,M
+Interstate Highway,070A,288.847,11/20/2024,15:44:00,39.74032,-104.72198,Sideswipe Same Direction,2.0,Clear,53.0,M
+Interstate Highway,070A,288.852,11/20/2024,17:26:00,39.74005,-104.7219,Rear-End,3.0,Clear,55.0,M
+Interstate Highway,070A,295.227,11/20/2024,22:56:00,39.74012,-104.60314,Other Non-Collision,2.0,Clear,25.0,M
+Interstate Highway,070A,296.621,11/21/2024,11:20:00,39.73981,-104.57738,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,253.50,11/21/2024,12:30:00,39.7094,-105.29355,Parked Motor Vehicle,2.0,Clear,72.0,M
+Interstate Highway,070A,243.000,11/22/2024,16:52:00,39.74634,-105.460498,Concrete Highway Barrier,1.0,Clear,29.0,M
+Interstate Highway,070A,287.479,11/23/2024,07:33:00,39.74721,-104.74431,Crash Cushion/Traffic Barrel,1.0,Clear,50.0,M
+Interstate Highway,070A,244.913,11/23/2024,10:15:00,39.73891,-105.43178,Rear-End,3.0,Clear,48.0,M
+Interstate Highway,070A,244.707,11/23/2024,12:20:00,39.74184,-105.43297,Rear-End,2.0,Clear,31.0,M
+Interstate Highway,070A,294.671,11/25/2024,04:45:00,39.73998,-104.6172,Wild Animal,1.0,Clear,37.0,F
+Interstate Highway,070A,299.152,11/25/2024,10:25:00,39.73864,-104.53041,Sideswipe Same Direction,2.0,Clear,40.0,M
+Interstate Highway,070A,291.000,11/26/2024,00:59:00,39.74008,-104.68241,Wild Animal,1.0,Clear,23.0,M
+Interstate Highway,070A,253.727,11/26/2024,15:44:00,39.70934,-105.29117,Sideswipe Same Direction,2.0,Clear,19.0,F
+Interstate Highway,070A,304.214,11/27/2024,07:41:00,39.73823,-104.43802,Parked Motor Vehicle,2.0,Snow,18.0,M
+Interstate Highway,070A,299.658,11/27/2024,12:46:00,39.73848,-104.521,Delineator/Milepost,1.0,Snow,33.0,M
+Interstate Highway,070A,304.45,11/28/2024,21:54:00,39.73834,-104.43003,Culvert or Headwall,1.0,Clear,36.0,M
+Interstate Highway,070A,316.694,11/29/2024,18:03:00,39.71165,-104.20995,Wild Animal,1.0,Clear,44.0,F
+Interstate Highway,070A,295.256,12/1/2024,17:15:00,39.73947,-104.6031,Approach Turn,2.0,Clear,27.0,M
+Interstate Highway,070A,316.787,12/1/2024,21:00:00,39.71105,-104.20853,Wild Animal,1.0,Clear,38.0,F
+Interstate Highway,070A,248.962,12/2/2024,17:30:00,39.71376,-105.36839,Delineator/Milepost,1.0,Clear,23.0,M
+Interstate Highway,070A,289.164,12/2/2024,18:25:00,39.73966,-104.716,Sideswipe Same Direction,2.0,Cloudy,27.0,M
+Interstate Highway,070A,288.529,12/3/2024,21:00:00,39.74038,-104.72635,Pedestrian,2.0,Clear,51.0,F
+Interstate Highway,070A,246.371,12/4/2024,14:50:00,39.72227,-105.41346,Concrete Highway Barrier,1.0,Clear,86.0,M
+Interstate Highway,070A,252.338,12/5/2024,08:20:00,39.71246,-105.31534,Concrete Highway Barrier,1.0,Clear,,
+Interstate Highway,070A,261.05,12/5/2024,15:50:00,39.72551,-105.17936,Rear-End,2.0,Clear,26.0,M
+Interstate Highway,070A,260.961,12/5/2024,16:34:00,39.72476,-105.18052,Rear-End,4.0,Clear,29.0,M
+Interstate Highway,070A,261.743,12/5/2024,20:00:00,39.73218,-105.16866,Vehicle Debris or Cargo,2.0,Clear,30.0,M
+Interstate Highway,070A,244.594,12/6/2024,12:14:00,39.7435,-105.43347,Concrete Highway Barrier,2.0,Clear,65.0,M
+Interstate Highway,070A,297.064,12/7/2024,06:20:00,39.73943,-104.56926,Wild Animal,1.0,Clear,60.0,M
+Interstate Highway,070A,228.000,12/8/2024,13:30:00,39.71675,-105.6964,Rear-End,4.0,Wind,31.0,M
+Interstate Highway,070A,227.645,12/8/2024,13:45:00,39.71154,-105.69714,Rear-End,2.0,Cloudy,20.0,M
+Interstate Highway,070A,292.509,12/9/2024,11:35:00,39.73995,-104.65413,Rear-End,2.0,Clear,30.0,M
+Interstate Highway,070A,247.699,12/9/2024,15:50:00,39.71554,-105.38962,Sideswipe Same Direction,2.0,Snow,28.0,M
+Interstate Highway,070A,246.244,12/10/2024,15:12:00,39.72343,-105.41592,Sideswipe Same Direction,3.0,Cloudy,,
+Interstate Highway,070A,242.364,12/12/2024,15:15:00,39.74492,-105.47336,Rear-End,2.0,Clear,20.0,F
+Interstate Highway,070A,244.006,12/12/2024,17:55:00,39.74354,-105.44333,Rear-End,2.0,Clear,64.0,M
+Interstate Highway,070A,299.328,12/12/2024,18:18:00,39.73849,-104.52706,Guardrail End,1.0,Clear,25.0,M
+Interstate Highway,070A,230.532,12/14/2024,16:43:00,39.74695,-105.67478,Rear-End,2.0,Clear,16.0,F
+Interstate Highway,070A,260.869,12/14/2024,18:40:00,39.7238,-105.18144,Rear-End,2.0,Clear,56.0,M
+Interstate Highway,070A,299.123,12/15/2024,14:57:00,39.73899,-104.53099,Sideswipe Same Direction,2.0,Clear,,
+Interstate Highway,070A,310.155,12/16/2024,10:19:00,39.73414,-104.32631,Rear-End,2.0,Clear,,
+Interstate Highway,070A,296.221,12/17/2024,05:00:00,39.74022,-104.58473,Rear-End,2.0,Clear,33.0,F
+Interstate Highway,070A,288.908,12/17/2024,09:20:00,39.74014,-104.72114,Rear-End,2.0,Clear,21.0,M
+Interstate Highway,070A,292.044,12/17/2024,13:50:00,39.74031,-104.66258,Other Non-Fixed Object Describe in Narrative),1.0,Clear,50.0,M
+Interstate Highway,070A,304.567,12/18/2024,14:27:00,39.7379,-104.42777,Wild Animal,1.0,Clear,26.0,M
+Interstate Highway,070A,261.63,12/19/2024,17:12:00,39.73093,-105.17026,Rear-End,3.0,Clear,71.0,F
+Interstate Highway,070A,289.164,12/20/2024,06:30:00,39.74259,-104.71605,Curb,1.0,Clear,70.0,M
+Interstate Highway,070A,243.954,12/21/2024,12:05:00,39.74347,-105.44433,Rear-End,2.0,Clear,52.0,M
+Interstate Highway,070A,230.911,12/21/2024,15:21:00,39.74947,-105.66867,Sideswipe Same Direction,2.0,Clear,42.0,M
+Interstate Highway,070A,297.408,12/22/2024,08:30:00,39.73937,-104.56296,Guardrail Face,1.0,Clear,66.0,M
+Interstate Highway,070A,246.612,12/23/2024,07:38:00,39.72129,-105.40943,Rear-End,2.0,Cloudy,16.0,M
+Interstate Highway,070A,238.00,12/23/2024,16:18:00,39.74965,-105.54888,Sign,1.0,Clear,76.0,M
+Interstate Highway,070A,310.49,12/24/2024,01:00:00,39.73332,-104.31496,Guardrail Face,1.0,Clear,55.0,M
+Interstate Highway,070A,310.689,12/24/2024,01:14:00,39.73343,-104.31449,Barricade,3.0,Clear,41.0,M
+Interstate Highway,070A,154.402,12/25/2024,12:00:00,39.71155,-106.70328,Rear-End,2.0,Snow,20.0,M
+Interstate Highway,070A,238.774,12/26/2024,09:35:00,39.74493,-105.53751,Sideswipe Same Direction,2.0,Clear,49.0,M
+Interstate Highway,070A,245.044,12/27/2024,07:05:00,39.73718,-105.43067,Rear-End,3.0,Clear,61.0,M
+Interstate Highway,070A,245.045,12/27/2024,07:05:00,39.73718,-105.43067,Rear-End,3.0,Clear,34.0,M
+Interstate Highway,070A,245.221,12/27/2024,07:35:00,39.735,-105.42886,Rear-End,3.0,Clear,39.0,M
+Interstate Highway,070A,246.263,12/28/2024,12:22:00,39.72311,-105.41565,Sideswipe Same Direction,2.0,Cloudy,21.0,M
+Interstate Highway,070A,288.212,12/29/2024,15:52:00,39.74133,-104.73284,Concrete Highway Barrier,1.0,Clear,43.0,F
+Interstate Highway,070A,295.472,12/31/2024,11:40:00,39.73976,-104.59853,Vehicle Debris or Cargo,2.0,Clear,,
+Interstate Highway,070A,295.585,12/31/2024,20:39:00,39.74008,-104.59646,Sideswipe Same Direction,2.0,Snow,40.0,M
+Interstate Highway,070A,312.206,12/31/2024,22:05:00,39.72992,-104.28747,Overturning/Rollover,1.0,Snow,19.0,M
